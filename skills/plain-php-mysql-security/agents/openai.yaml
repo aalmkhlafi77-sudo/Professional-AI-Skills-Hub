@@ -1,0 +1,3 @@
+interface:
+  display_name: "Plain PHP MySQL Security"
+  short_description: "Audit PHP APIs, MySQL transactions, uploads and deployment"
