@@ -1,0 +1,3 @@
+interface:
+  display_name: "Skill Source Auditor"
+  short_description: "Review skill repositories for safety, quality and compatibility"
