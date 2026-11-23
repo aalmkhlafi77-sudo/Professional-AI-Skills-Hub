@@ -11,8 +11,8 @@
 
 | Gate | Status |
 |---|---|
-| Isolated n8n credential import and plaintext-at-rest/log sentinel check | PENDING until GitHub CI |
-| SQLite concurrent unique-key dedup and rollback | PENDING until GitHub CI |
+| Isolated n8n credential import and plaintext-at-rest/log sentinel check | PASS (limited): [run 45216783144](https://github.com/aalmkhlafi77-sudo/Professional-AI-Skills-Hub/actions/runs/45216783144) |
+| SQLite concurrent unique-key dedup and rollback | PASS (SQLite only): [catalog tests](https://github.com/aalmkhlafi77-sudo/Professional-AI-Skills-Hub/actions/runs/45216782779) |
 | n8n credential encryption algorithm, rotation and real log masking | PENDING |
 | Actual n8n retry dedup with concurrent workers | PENDING |
 | n8n subworkflow, Data Table and MCP scoped identity tests | PENDING |
