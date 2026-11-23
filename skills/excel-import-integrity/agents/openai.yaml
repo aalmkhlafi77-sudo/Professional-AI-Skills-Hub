@@ -1,0 +1,3 @@
+interface:
+  display_name: "Excel Import Integrity"
+  short_description: "Review spreadsheet import pipelines for duplicate entities, atomic trans"
