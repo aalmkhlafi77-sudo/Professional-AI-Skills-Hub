@@ -40,7 +40,7 @@ def preflight(workflow, *, mode="test", approved=False):
             continue
         if mode == "test" and kind in SIDE_EFFECT_TYPES and not approved:
             errors.append(f"UNPINNED_SIDE_EFFECT:{name}")
-        if mode == "test" and kind in NETWORK_TYPES and not node.get("pinData") and not approved:
+        if mode == "test" and kind in NETWORK_TYPES and name not in workflow.get("pinData", {}) and not approved:
             errors.append(f"UNPINNED_NETWORK:{name}")
         if kind in RETRYABLE_TYPES and node.get("retryOnFail") and params.get("operation") in {"create", "insert", "send", "delete", "update"}:
             if not params.get("idempotencyKey"):
