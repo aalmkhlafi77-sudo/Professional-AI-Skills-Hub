@@ -17,7 +17,8 @@ class CatalogTests(unittest.TestCase):
 
     def test_all_candidates_unapproved(self):
         data = json.loads((ROOT / "catalog/candidates.json").read_text())
-        self.assertTrue(all(item["status"] in {"candidate", "under_review", "rejected", "retired"} for item in data["candidates"]))\n        self.assertFalse(any(item["id"] in {a["id"] for a in json.loads((ROOT / "catalog/approved.json").read_text())["approved"]} for item in data["candidates"]))
+        self.assertTrue(all(item["status"] in {"candidate", "under_review", "rejected", "retired"} for item in data["candidates"])) 
+        self.assertFalse(any(item["id"] in {a["id"] for a in json.loads((ROOT / "catalog/approved.json").read_text())["approved"]} for item in data["candidates"]))
 
 if __name__ == "__main__":
     unittest.main()
