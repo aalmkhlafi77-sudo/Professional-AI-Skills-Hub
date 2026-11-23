@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "status": "quarantined-unapproved",
+  "sources": [
+    {
+      "id": "greensock/gsap-skills",
+      "commit": "aed9cfd3277740755f6bfc1155c7aa645403b760",
+      "license": "MIT",
+      "license_file": "intake/greensock/LICENSE",
+      "prefix": "intake/greensock/",
+      "entries": [
+        {
+          "skill": "gsap-core",
+          "path": "intake/greensock/gsap-core/SKILL.md"
+        },
+        {
+          "skill": "gsap-react",
+          "path": "intake/greensock/gsap-react/SKILL.md"
+        },
+        {
+          "skill": "gsap-scrolltrigger",
+          "path": "intake/greensock/gsap-scrolltrigger/SKILL.md"
+        },
+        {
+          "skill": "gsap-performance",
+          "path": "intake/greensock/gsap-performance/SKILL.md"
+        },
+        {
+          "skill": "gsap-timeline",
+          "path": "intake/greensock/gsap-timeline/SKILL.md"
+        }
+      ]
+    },
+    {
+      "id": "getsentry/skills",
+      "commit": "a582c51ee29d0f35e6ac321340796f77d43da733",
+      "license": "Apache-2.0",
+      "license_file": "intake/sentry/LICENSE",
+      "prefix": "intake/sentry/",
+      "entries": [
+        {
+          "skill": "skill-scanner",
+          "path": "intake/sentry/skill-scanner/SKILL.md",
+          "requires": [
+            "pyyaml"
+          ],
+          "executable_files": [
+            "intake/sentry/skill-scanner/scripts/scan_skill.py"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "microsoft/playwright-cli",
+      "commit": "c872a33cec77fa03c28fa7c6d1ad99d15d04ce42",
+      "license": "Apache-2.0",
+      "license_file": "intake/microsoft/LICENSE",
+      "prefix": "intake/microsoft/",
+      "entries": [
+        {
+          "skill": "playwright-cli",
+          "path": "intake/microsoft/playwright-cli/SKILL.md",
+          "requires": [
+            "playwright-cli"
+          ],
+          "permission_risks": [
+            "browser_navigation",
+            "session_storage",
+            "command_execution"
+          ]
+        }
+      ]
+    }
+  ]
+}
