@@ -1044,6 +1044,153 @@
       "source_path": "plugins/expo/skills/expo-router/references/zoom-transitions.md",
       "path": "intake/expo/expo-router/references/zoom-transitions.md",
       "git_blob_sha": "27e00a888aa2ba998443ea9e3006b11321d14849"
+    },
+    {
+      "source": "laravel/boost",
+      "source_commit": "6004f09e71fe199880a671df6dc34a6e731ba1ea",
+      "source_path": ".ai/laravel/skill/laravel-best-practices/SKILL.md",
+      "path": "intake/laravel/laravel-best-practices/SKILL.md",
+      "git_blob_sha": "cf54e423c2fec5ad58faa38ac24697386c5ae49e"
+    },
+    {
+      "source": "laravel/boost",
+      "source_commit": "6004f09e71fe199880a671df6dc34a6e731ba1ea",
+      "source_path": ".ai/laravel/skill/laravel-best-practices/rules/advanced-queries.md",
+      "path": "intake/laravel/laravel-best-practices/rules/advanced-queries.md",
+      "git_blob_sha": "21e72b89d1fae46e301cfce81b227853346aa958"
+    },
+    {
+      "source": "laravel/boost",
+      "source_commit": "6004f09e71fe199880a671df6dc34a6e731ba1ea",
+      "source_path": ".ai/laravel/skill/laravel-best-practices/rules/architecture.md",
+      "path": "intake/laravel/laravel-best-practices/rules/architecture.md",
+      "git_blob_sha": "11df52bafd9187ab95ebda6bcd2a7f11e0cbdc88"
+    },
+    {
+      "source": "laravel/boost",
+      "source_commit": "6004f09e71fe199880a671df6dc34a6e731ba1ea",
+      "source_path": ".ai/laravel/skill/laravel-best-practices/rules/blade-views.md",
+      "path": "intake/laravel/laravel-best-practices/rules/blade-views.md",
+      "git_blob_sha": "76ae15a5be352fc25a171d7f43eeedb7959967df"
+    },
+    {
+      "source": "laravel/boost",
+      "source_commit": "6004f09e71fe199880a671df6dc34a6e731ba1ea",
+      "source_path": ".ai/laravel/skill/laravel-best-practices/rules/caching.md",
+      "path": "intake/laravel/laravel-best-practices/rules/caching.md",
+      "git_blob_sha": "2be8b99b00fa59cd1880dfad02873cdbbab250fb"
+    },
+    {
+      "source": "laravel/boost",
+      "source_commit": "6004f09e71fe199880a671df6dc34a6e731ba1ea",
+      "source_path": ".ai/laravel/skill/laravel-best-practices/rules/collections.md",
+      "path": "intake/laravel/laravel-best-practices/rules/collections.md",
+      "git_blob_sha": "f50e49f147bbb894359ef0e7e70485b4911ec7d4"
+    },
+    {
+      "source": "laravel/boost",
+      "source_commit": "6004f09e71fe199880a671df6dc34a6e731ba1ea",
+      "source_path": ".ai/laravel/skill/laravel-best-practices/rules/config.blade.php",
+      "path": "intake/laravel/laravel-best-practices/rules/config.blade.php",
+      "git_blob_sha": "ae6773b8c95994790c9827bc59bf38b9bf8dc1d8"
+    },
+    {
+      "source": "laravel/boost",
+      "source_commit": "6004f09e71fe199880a671df6dc34a6e731ba1ea",
+      "source_path": ".ai/laravel/skill/laravel-best-practices/rules/db-performance.md",
+      "path": "intake/laravel/laravel-best-practices/rules/db-performance.md",
+      "git_blob_sha": "aaf6ec58e7843c392adba8e9997c135b4f4c6221"
+    },
+    {
+      "source": "laravel/boost",
+      "source_commit": "6004f09e71fe199880a671df6dc34a6e731ba1ea",
+      "source_path": ".ai/laravel/skill/laravel-best-practices/rules/eloquent.md",
+      "path": "intake/laravel/laravel-best-practices/rules/eloquent.md",
+      "git_blob_sha": "220c3d16d8e2605af1d0f92740b58c8dd5791e7d"
+    },
+    {
+      "source": "laravel/boost",
+      "source_commit": "6004f09e71fe199880a671df6dc34a6e731ba1ea",
+      "source_path": ".ai/laravel/skill/laravel-best-practices/rules/error-handling.md",
+      "path": "intake/laravel/laravel-best-practices/rules/error-handling.md",
+      "git_blob_sha": "891830a9fc0c88592dda7aca60cab8c91a0f457f"
+    },
+    {
+      "source": "laravel/boost",
+      "source_commit": "6004f09e71fe199880a671df6dc34a6e731ba1ea",
+      "source_path": ".ai/laravel/skill/laravel-best-practices/rules/events-notifications.blade.php",
+      "path": "intake/laravel/laravel-best-practices/rules/events-notifications.blade.php",
+      "git_blob_sha": "b65bc6af08b345ce1b165a80d0ebe40eb52f2ace"
+    },
+    {
+      "source": "laravel/boost",
+      "source_commit": "6004f09e71fe199880a671df6dc34a6e731ba1ea",
+      "source_path": ".ai/laravel/skill/laravel-best-practices/rules/http-client.md",
+      "path": "intake/laravel/laravel-best-practices/rules/http-client.md",
+      "git_blob_sha": "4cb43792d9b26f57faad66ccf5e55e6244ebb278"
+    },
+    {
+      "source": "laravel/boost",
+      "source_commit": "6004f09e71fe199880a671df6dc34a6e731ba1ea",
+      "source_path": ".ai/laravel/skill/laravel-best-practices/rules/mail.blade.php",
+      "path": "intake/laravel/laravel-best-practices/rules/mail.blade.php",
+      "git_blob_sha": "e14af88cf6b684e2985bf0be41d41c184c901adc"
+    },
+    {
+      "source": "laravel/boost",
+      "source_commit": "6004f09e71fe199880a671df6dc34a6e731ba1ea",
+      "source_path": ".ai/laravel/skill/laravel-best-practices/rules/migrations.blade.php",
+      "path": "intake/laravel/laravel-best-practices/rules/migrations.blade.php",
+      "git_blob_sha": "36c74d41fa3871a700a1804deeb8619a6797ed8b"
+    },
+    {
+      "source": "laravel/boost",
+      "source_commit": "6004f09e71fe199880a671df6dc34a6e731ba1ea",
+      "source_path": ".ai/laravel/skill/laravel-best-practices/rules/queue-jobs.md",
+      "path": "intake/laravel/laravel-best-practices/rules/queue-jobs.md",
+      "git_blob_sha": "0e11a186b59698d8ec01e3f82596d119757e2d97"
+    },
+    {
+      "source": "laravel/boost",
+      "source_commit": "6004f09e71fe199880a671df6dc34a6e731ba1ea",
+      "source_path": ".ai/laravel/skill/laravel-best-practices/rules/routing.md",
+      "path": "intake/laravel/laravel-best-practices/rules/routing.md",
+      "git_blob_sha": "89e9bc15a8a13ccc44487f3d3ebe994cb52a73a0"
+    },
+    {
+      "source": "laravel/boost",
+      "source_commit": "6004f09e71fe199880a671df6dc34a6e731ba1ea",
+      "source_path": ".ai/laravel/skill/laravel-best-practices/rules/scheduling.blade.php",
+      "path": "intake/laravel/laravel-best-practices/rules/scheduling.blade.php",
+      "git_blob_sha": "4da0196615fbf5447c16e406b4c21a8cf456d216"
+    },
+    {
+      "source": "laravel/boost",
+      "source_commit": "6004f09e71fe199880a671df6dc34a6e731ba1ea",
+      "source_path": ".ai/laravel/skill/laravel-best-practices/rules/security.blade.php",
+      "path": "intake/laravel/laravel-best-practices/rules/security.blade.php",
+      "git_blob_sha": "3ffc7073f413a886ebb9ade535760537ed2ab59b"
+    },
+    {
+      "source": "laravel/boost",
+      "source_commit": "6004f09e71fe199880a671df6dc34a6e731ba1ea",
+      "source_path": ".ai/laravel/skill/laravel-best-practices/rules/style.md",
+      "path": "intake/laravel/laravel-best-practices/rules/style.md",
+      "git_blob_sha": "a29645db80254649890349a23ef748a28b226221"
+    },
+    {
+      "source": "laravel/boost",
+      "source_commit": "6004f09e71fe199880a671df6dc34a6e731ba1ea",
+      "source_path": ".ai/laravel/skill/laravel-best-practices/rules/validation.md",
+      "path": "intake/laravel/laravel-best-practices/rules/validation.md",
+      "git_blob_sha": "cd570a4ac1ba2c11a6e9fc87fce0dc29d5b28842"
+    },
+    {
+      "source": "laravel/boost",
+      "source_commit": "6004f09e71fe199880a671df6dc34a6e731ba1ea",
+      "source_path": "LICENSE.md",
+      "path": "intake/laravel/LICENSE.md",
+      "git_blob_sha": "79810c848f8bdbd8f1629f46079ad482f33fc371"
     }
   ]
 }
