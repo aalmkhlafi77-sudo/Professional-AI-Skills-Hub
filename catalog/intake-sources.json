@@ -62,16 +62,6 @@
           "path": "intake/sentry/code-review/SKILL.md"
         },
         {
-          "skill": "find-bugs",
-          "path": "intake/sentry/find-bugs/SKILL.md",
-          "notes": "Current-branch bug and security review checklist."
-        },
-        {
-          "skill": "code-review",
-          "path": "intake/sentry/code-review/SKILL.md",
-          "notes": "Sentry-origin review guidelines; verify portability to non-Sentry repos."
-        },
-        {
           "skill": "security-review",
           "path": "intake/sentry/security-review/SKILL.md",
           "license": "Skill-specific LICENSE",
@@ -135,11 +125,6 @@
           "notes": "React Native design system audit and native UI quality guidance."
         },
         {
-          "skill": "expo-design-system",
-          "path": "intake/expo/expo-design-system/SKILL.md",
-          "notes": "Native app design token and component system audit."
-        },
-        {
           "skill": "expo-native-ui",
           "path": "intake/expo/expo-native-ui/SKILL.md",
           "notes": "Native platform controls, gradients, icons, media and visual effects; Expo/React Native only."
@@ -160,20 +145,6 @@
         }
       ],
       "notes": "Official frontend design guidance. Individual skill license retained; assess reuse terms and compatibility before approval."
-    },
-    {
-      "id": "anthropics/skills",
-      "commit": "e4bb5d960d87126ff3b3a8af1a104b7db67560ba",
-      "license": "Apache-2.0 per-skill LICENSE.txt",
-      "license_file": "intake/anthropic/frontend-design/LICENSE.txt",
-      "prefix": "intake/anthropic/",
-      "entries": [
-        {
-          "skill": "frontend-design",
-          "path": "intake/anthropic/frontend-design/SKILL.md"
-        }
-      ],
-      "notes": "Official design guidance. Skill-specific Apache license retained."
     }
   ]
 }
