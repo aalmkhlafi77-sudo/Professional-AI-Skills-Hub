@@ -1,0 +1,3 @@
+interface:
+  display_name: "Local Visual Regression"
+  short_description: "Review local Playwright screenshots and responsive UI regressions"
