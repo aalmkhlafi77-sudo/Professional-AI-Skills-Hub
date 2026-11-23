@@ -194,10 +194,11 @@
       "license_file": "intake/n8n/LICENSE",
       "entries": [
         {
-          "name": "n8n-expressions-official",
+          "skill": "n8n-expressions-official",
           "path": "intake/n8n/n8n-expressions-official/SKILL.md"
         }
-      ]
+      ],
+      "license": "Apache-2.0"
     }
   ]
 }
