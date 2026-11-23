@@ -477,6 +477,230 @@
       "source_path": "plugins/expo/LICENSE",
       "path": "intake/expo/LICENSE",
       "git_blob_sha": "548fbcb6e0cc27e99b2cd341feb421a67eafdd2f"
+    },
+    {
+      "source": "getsentry/skills",
+      "source_commit": "a582c51ee29d0f35e6ac321340796f77d43da733",
+      "source_path": "skills/security-review/SKILL.md",
+      "path": "intake/sentry/security-review/SKILL.md",
+      "git_blob_sha": "63d362f046e78729cd3ac563d20238b2da2e7392"
+    },
+    {
+      "source": "getsentry/skills",
+      "source_commit": "a582c51ee29d0f35e6ac321340796f77d43da733",
+      "source_path": "skills/security-review/SPEC.md",
+      "path": "intake/sentry/security-review/SPEC.md",
+      "git_blob_sha": "9b786c2fee78452b089dab097bf6d5b72262ea74"
+    },
+    {
+      "source": "getsentry/skills",
+      "source_commit": "a582c51ee29d0f35e6ac321340796f77d43da733",
+      "source_path": "skills/security-review/LICENSE",
+      "path": "intake/sentry/security-review/LICENSE",
+      "git_blob_sha": "45d290bd539a284149f9a6efc8da050d763881e2"
+    },
+    {
+      "source": "getsentry/skills",
+      "source_commit": "a582c51ee29d0f35e6ac321340796f77d43da733",
+      "source_path": "skills/security-review/infrastructure/docker.md",
+      "path": "intake/sentry/security-review/infrastructure/docker.md",
+      "git_blob_sha": "b66d79aec631de32c138515c17c4a23c5beae6b5"
+    },
+    {
+      "source": "getsentry/skills",
+      "source_commit": "a582c51ee29d0f35e6ac321340796f77d43da733",
+      "source_path": "skills/security-review/languages/javascript.md",
+      "path": "intake/sentry/security-review/languages/javascript.md",
+      "git_blob_sha": "53ac8f6c30940acf2b239937cb9ed9a02e63b112"
+    },
+    {
+      "source": "getsentry/skills",
+      "source_commit": "a582c51ee29d0f35e6ac321340796f77d43da733",
+      "source_path": "skills/security-review/languages/python.md",
+      "path": "intake/sentry/security-review/languages/python.md",
+      "git_blob_sha": "f0a2e6bd64f7f01fa96fc947ac2a08b582e1c519"
+    },
+    {
+      "source": "getsentry/skills",
+      "source_commit": "a582c51ee29d0f35e6ac321340796f77d43da733",
+      "source_path": "skills/security-review/references/api-security.md",
+      "path": "intake/sentry/security-review/references/api-security.md",
+      "git_blob_sha": "8ae657407cdb16b5b5ba0481927f9bf2920ea640"
+    },
+    {
+      "source": "getsentry/skills",
+      "source_commit": "a582c51ee29d0f35e6ac321340796f77d43da733",
+      "source_path": "skills/security-review/references/authentication.md",
+      "path": "intake/sentry/security-review/references/authentication.md",
+      "git_blob_sha": "ddd41dffff9f469a4f73cb38b50c30d3eda56e96"
+    },
+    {
+      "source": "getsentry/skills",
+      "source_commit": "a582c51ee29d0f35e6ac321340796f77d43da733",
+      "source_path": "skills/security-review/references/authorization.md",
+      "path": "intake/sentry/security-review/references/authorization.md",
+      "git_blob_sha": "cd0f94a614bbaa7d217d524de1191064084b6466"
+    },
+    {
+      "source": "getsentry/skills",
+      "source_commit": "a582c51ee29d0f35e6ac321340796f77d43da733",
+      "source_path": "skills/security-review/references/business-logic.md",
+      "path": "intake/sentry/security-review/references/business-logic.md",
+      "git_blob_sha": "ae87ad885d7298a0cce60262955eea0f236fa5da"
+    },
+    {
+      "source": "getsentry/skills",
+      "source_commit": "a582c51ee29d0f35e6ac321340796f77d43da733",
+      "source_path": "skills/security-review/references/cryptography.md",
+      "path": "intake/sentry/security-review/references/cryptography.md",
+      "git_blob_sha": "c4cc4260d81b1a5fb9a748f93959859f51e7c966"
+    },
+    {
+      "source": "getsentry/skills",
+      "source_commit": "a582c51ee29d0f35e6ac321340796f77d43da733",
+      "source_path": "skills/security-review/references/csrf.md",
+      "path": "intake/sentry/security-review/references/csrf.md",
+      "git_blob_sha": "7b712ba45c644db40ebfda00138264f2ba785855"
+    },
+    {
+      "source": "getsentry/skills",
+      "source_commit": "a582c51ee29d0f35e6ac321340796f77d43da733",
+      "source_path": "skills/security-review/references/data-protection.md",
+      "path": "intake/sentry/security-review/references/data-protection.md",
+      "git_blob_sha": "77c73235b2f7fd0996885ff18f5f32483e13bc99"
+    },
+    {
+      "source": "getsentry/skills",
+      "source_commit": "a582c51ee29d0f35e6ac321340796f77d43da733",
+      "source_path": "skills/security-review/references/deserialization.md",
+      "path": "intake/sentry/security-review/references/deserialization.md",
+      "git_blob_sha": "038bc0fdd716f1f60197a0b90e756d0f1e725fd7"
+    },
+    {
+      "source": "getsentry/skills",
+      "source_commit": "a582c51ee29d0f35e6ac321340796f77d43da733",
+      "source_path": "skills/security-review/references/error-handling.md",
+      "path": "intake/sentry/security-review/references/error-handling.md",
+      "git_blob_sha": "54f2763eb70980fc3dbc3f340ebaefcd27be5a89"
+    },
+    {
+      "source": "getsentry/skills",
+      "source_commit": "a582c51ee29d0f35e6ac321340796f77d43da733",
+      "source_path": "skills/security-review/references/file-security.md",
+      "path": "intake/sentry/security-review/references/file-security.md",
+      "git_blob_sha": "be310e084ecbc6d4d6a027cb1d553f347c4dea86"
+    },
+    {
+      "source": "getsentry/skills",
+      "source_commit": "a582c51ee29d0f35e6ac321340796f77d43da733",
+      "source_path": "skills/security-review/references/injection.md",
+      "path": "intake/sentry/security-review/references/injection.md",
+      "git_blob_sha": "4374c460726eb3f57d997548923b65f53a6299d0"
+    },
+    {
+      "source": "getsentry/skills",
+      "source_commit": "a582c51ee29d0f35e6ac321340796f77d43da733",
+      "source_path": "skills/security-review/references/logging.md",
+      "path": "intake/sentry/security-review/references/logging.md",
+      "git_blob_sha": "e446b01412e122a100079450ec1c83711db569de"
+    },
+    {
+      "source": "getsentry/skills",
+      "source_commit": "a582c51ee29d0f35e6ac321340796f77d43da733",
+      "source_path": "skills/security-review/references/misconfiguration.md",
+      "path": "intake/sentry/security-review/references/misconfiguration.md",
+      "git_blob_sha": "41132da74728cb0190f530c55ce40359e146ea68"
+    },
+    {
+      "source": "getsentry/skills",
+      "source_commit": "a582c51ee29d0f35e6ac321340796f77d43da733",
+      "source_path": "skills/security-review/references/modern-threats.md",
+      "path": "intake/sentry/security-review/references/modern-threats.md",
+      "git_blob_sha": "efdadcf38830264d26d77cd42443532cf665a846"
+    },
+    {
+      "source": "getsentry/skills",
+      "source_commit": "a582c51ee29d0f35e6ac321340796f77d43da733",
+      "source_path": "skills/security-review/references/ssrf.md",
+      "path": "intake/sentry/security-review/references/ssrf.md",
+      "git_blob_sha": "971fe8d9d8933670ef34ed10ee8d5251aa063b3f"
+    },
+    {
+      "source": "getsentry/skills",
+      "source_commit": "a582c51ee29d0f35e6ac321340796f77d43da733",
+      "source_path": "skills/security-review/references/supply-chain.md",
+      "path": "intake/sentry/security-review/references/supply-chain.md",
+      "git_blob_sha": "97ffb35326e56524478fb5a41f1ddc73f2cbd3e7"
+    },
+    {
+      "source": "getsentry/skills",
+      "source_commit": "a582c51ee29d0f35e6ac321340796f77d43da733",
+      "source_path": "skills/security-review/references/xss.md",
+      "path": "intake/sentry/security-review/references/xss.md",
+      "git_blob_sha": "f3deadc84ecc0cb034fc708a01e17f6bcdf68f9e"
+    },
+    {
+      "source": "expo/skills",
+      "source_commit": "88d9bd79f3fa8452a778fbac65bae162c0b32ce4",
+      "source_path": "plugins/expo/skills/expo-native-ui/SKILL.md",
+      "path": "intake/expo/expo-native-ui/SKILL.md",
+      "git_blob_sha": "29430b05bbf4dd43436a88599e80aafc22f8ba45"
+    },
+    {
+      "source": "expo/skills",
+      "source_commit": "88d9bd79f3fa8452a778fbac65bae162c0b32ce4",
+      "source_path": "plugins/expo/skills/expo-native-ui/agents/openai.yaml",
+      "path": "intake/expo/expo-native-ui/agents/openai.yaml",
+      "git_blob_sha": "b41117eac0d64ecd7da917e692d62eb127b18ebc"
+    },
+    {
+      "source": "expo/skills",
+      "source_commit": "88d9bd79f3fa8452a778fbac65bae162c0b32ce4",
+      "source_path": "plugins/expo/skills/expo-native-ui/references/controls.md",
+      "path": "intake/expo/expo-native-ui/references/controls.md",
+      "git_blob_sha": "05865bde831d647faae39fb3a8960bdc119f1b4f"
+    },
+    {
+      "source": "expo/skills",
+      "source_commit": "88d9bd79f3fa8452a778fbac65bae162c0b32ce4",
+      "source_path": "plugins/expo/skills/expo-native-ui/references/gradients.md",
+      "path": "intake/expo/expo-native-ui/references/gradients.md",
+      "git_blob_sha": "329600dc1d3c683dcc15b29ee7bc61e112acb6a6"
+    },
+    {
+      "source": "expo/skills",
+      "source_commit": "88d9bd79f3fa8452a778fbac65bae162c0b32ce4",
+      "source_path": "plugins/expo/skills/expo-native-ui/references/icons.md",
+      "path": "intake/expo/expo-native-ui/references/icons.md",
+      "git_blob_sha": "d23ac8f14586a2539993b645561e37e39393de3e"
+    },
+    {
+      "source": "expo/skills",
+      "source_commit": "88d9bd79f3fa8452a778fbac65bae162c0b32ce4",
+      "source_path": "plugins/expo/skills/expo-native-ui/references/media.md",
+      "path": "intake/expo/expo-native-ui/references/media.md",
+      "git_blob_sha": "65813b4e20c6f532cd55c93a411471b887d7be24"
+    },
+    {
+      "source": "expo/skills",
+      "source_commit": "88d9bd79f3fa8452a778fbac65bae162c0b32ce4",
+      "source_path": "plugins/expo/skills/expo-native-ui/references/storage.md",
+      "path": "intake/expo/expo-native-ui/references/storage.md",
+      "git_blob_sha": "c084f121367b6e9a6393af7f8c10b9247ccde108"
+    },
+    {
+      "source": "expo/skills",
+      "source_commit": "88d9bd79f3fa8452a778fbac65bae162c0b32ce4",
+      "source_path": "plugins/expo/skills/expo-native-ui/references/visual-effects.md",
+      "path": "intake/expo/expo-native-ui/references/visual-effects.md",
+      "git_blob_sha": "fdf312a6c81979df0e9cd14df88c3f22d2e4e3c7"
+    },
+    {
+      "source": "expo/skills",
+      "source_commit": "88d9bd79f3fa8452a778fbac65bae162c0b32ce4",
+      "source_path": "plugins/expo/skills/expo-native-ui/references/webgpu-three.md",
+      "path": "intake/expo/expo-native-ui/references/webgpu-three.md",
+      "git_blob_sha": "58b5ce8046255f2c729b338da837a7e18804c356"
     }
   ]
 }
