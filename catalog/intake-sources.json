@@ -47,6 +47,11 @@
           "executable_files": [
             "intake/sentry/skill-scanner/scripts/scan_skill.py"
           ]
+        },
+        {
+          "skill": "gha-security-review",
+          "path": "intake/sentry/gha-security-review/SKILL.md",
+          "notes": "Review-only instructions; permissions required for reading workflows, no executable scripts packaged."
         }
       ]
     },
@@ -70,6 +75,38 @@
           ]
         }
       ]
+    },
+    {
+      "id": "MustBeSimo/web-design-studio",
+      "commit": "674f211abfeb9707d2424d553bb5b1af3613025f",
+      "license": "MIT",
+      "license_file": "intake/web-design-studio/LICENSE",
+      "prefix": "intake/web-design-studio/",
+      "entries": [
+        {
+          "skill": "cinematic-scroll",
+          "path": "intake/web-design-studio/cinematic-scroll/SKILL.md"
+        },
+        {
+          "skill": "scroll-audit",
+          "path": "intake/web-design-studio/scroll-audit/SKILL.md"
+        }
+      ],
+      "notes": "Community source. Not approved; no scripts imported."
+    },
+    {
+      "id": "expo/skills",
+      "commit": "88d9bd79f3fa8452a778fbac65bae162c0b32ce4",
+      "license": "MIT",
+      "license_file": "intake/expo/expo-animation/LICENSE",
+      "prefix": "intake/expo/",
+      "entries": [
+        {
+          "skill": "expo-animation",
+          "path": "intake/expo/expo-animation/SKILL.md"
+        }
+      ],
+      "notes": "Native React mobile only. Actual-device evaluation pending."
     }
   ]
 }
