@@ -32,7 +32,7 @@ async function main() {
       await page.goto('file://' + path.join(root,'index.html'),{waitUntil:'load'});
       await page.waitForTimeout(200);
       const before=await page.evaluate(()=>({gsap:typeof gsap,plugin:typeof ScrollTrigger,triggers:ScrollTrigger.getAll().length,overflow:document.documentElement.scrollWidth>innerWidth}));
-      if(before.gsap!=='function'||before.plugin!=='function'||before.overflow)throw Error(setting.name+': incorrect gsap/plugin/overflow '+JSON.stringify(before));
+      if(before.gsap!=='object'||before.plugin!=='function'||before.overflow)throw Error(setting.name+': incorrect gsap/plugin/overflow '+JSON.stringify(before));
       if(setting.reducedMotion==='reduce'){
         if(before.triggers!==0)throw Error('reduced motion has active scroll trigger');
       } else {
