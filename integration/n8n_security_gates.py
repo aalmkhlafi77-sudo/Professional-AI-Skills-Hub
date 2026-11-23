@@ -2,7 +2,7 @@
 import re
 from collections import Counter
 SECRET = re.compile(r"authorization|api[_-]?key|access[_-]?token|refresh[_-]?token|password|client[_-]?secret|cookie", re.I)
-TOKEN = re.compile(r"(?i)(bearer\\s+[^\\s,;]+|sk-[A-Za-z0-9_-]{8,}|ghp_[A-Za-z0-9_]+)")
+TOKEN = re.compile(r"(?i)(bearer\s+[^\s,;]+|sk-[A-Za-z0-9_-]{8,}|ghp_[A-Za-z0-9_]+)")
 SIDE_EFFECTS = {"n8n-nodes-base.executeWorkflow", "n8n-nodes-base.executeCommand", "n8n-nodes-base.readWriteFile", "n8n-nodes-base.dataTable"}
 
 def redact(value, key=""):
