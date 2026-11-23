@@ -31,8 +31,10 @@ if [[ "$status" -ne 0 ]]; then
 fi
 python3 - "$WORK/data/database.sqlite" "$WORK/import.log" <<'PY'
 import sqlite3,sys,pathlib
-db=pathlib.Path(sys.argv[1])
-assert db.is_file(), "FAIL: no actual n8n SQLite database"
+root=pathlib.Path(sys.argv[1]).parent
+candidates=list(root.rglob("database.sqlite"))
+assert len(candidates)==1, f"FAIL: expected exactly one n8n SQLite database, found {len(candidates)}"
+db=candidates[0]
 con=sqlite3.connect(str(db))
 tables=[r[0] for r in con.execute("SELECT name FROM sqlite_master WHERE type='table'")]
 assert "credentials_entity" in tables, "FAIL: missing n8n credentials table"
