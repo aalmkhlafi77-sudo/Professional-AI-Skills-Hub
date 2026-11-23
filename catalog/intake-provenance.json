@@ -1205,6 +1205,111 @@
       "source_path": "LICENSE",
       "path": "intake/n8n/LICENSE",
       "git_blob_sha": "c87e50b21d7195576cfda86509960d9f80a1d3bd"
+    },
+    {
+      "source": "n8n-io/skills",
+      "source_commit": "626f50fdf2934116eea2c5469339e03d2d524e83",
+      "source_path": "skills/n8n-credentials-and-security-official/SKILL.md",
+      "path": "intake/n8n/n8n-credentials-and-security-official/SKILL.md",
+      "git_blob_sha": "ab550731df56ce82b94b493b1427ae8fed9d8e88"
+    },
+    {
+      "source": "n8n-io/skills",
+      "source_commit": "626f50fdf2934116eea2c5469339e03d2d524e83",
+      "source_path": "skills/n8n-credentials-and-security-official/references/CREDENTIAL_SYSTEM.md",
+      "path": "intake/n8n/n8n-credentials-and-security-official/references/CREDENTIAL_SYSTEM.md",
+      "git_blob_sha": "09429830e9563fba4d44b72cf8a6fe958183a032"
+    },
+    {
+      "source": "n8n-io/skills",
+      "source_commit": "626f50fdf2934116eea2c5469339e03d2d524e83",
+      "source_path": "skills/n8n-credentials-and-security-official/references/CUSTOM_CREDENTIALS.md",
+      "path": "intake/n8n/n8n-credentials-and-security-official/references/CUSTOM_CREDENTIALS.md",
+      "git_blob_sha": "9e339571c5cf8ced0c2cfe96b460455bbc589df8"
+    },
+    {
+      "source": "n8n-io/skills",
+      "source_commit": "626f50fdf2934116eea2c5469339e03d2d524e83",
+      "source_path": "skills/n8n-credentials-and-security-official/references/FINDING_API_DOCS.md",
+      "path": "intake/n8n/n8n-credentials-and-security-official/references/FINDING_API_DOCS.md",
+      "git_blob_sha": "4f1b41be6047ed97e6c1ad93bf69986d438b593c"
+    },
+    {
+      "source": "n8n-io/skills",
+      "source_commit": "626f50fdf2934116eea2c5469339e03d2d524e83",
+      "source_path": "skills/n8n-credentials-and-security-official/references/HTTP_REQUEST_WITH_AUTH.md",
+      "path": "intake/n8n/n8n-credentials-and-security-official/references/HTTP_REQUEST_WITH_AUTH.md",
+      "git_blob_sha": "522aba689d49144ce8fca39660034147b9dd9f84"
+    },
+    {
+      "source": "n8n-io/skills",
+      "source_commit": "626f50fdf2934116eea2c5469339e03d2d524e83",
+      "source_path": "skills/n8n-error-handling-official/SKILL.md",
+      "path": "intake/n8n/n8n-error-handling-official/SKILL.md",
+      "git_blob_sha": "a8eaa5db28f4ccdfefffaf175a01916ffcccf761"
+    },
+    {
+      "source": "n8n-io/skills",
+      "source_commit": "626f50fdf2934116eea2c5469339e03d2d524e83",
+      "source_path": "skills/n8n-error-handling-official/references/API_WORKFLOWS.md",
+      "path": "intake/n8n/n8n-error-handling-official/references/API_WORKFLOWS.md",
+      "git_blob_sha": "986c8f2a2018edbbbbab56b1488ef3a506581838"
+    },
+    {
+      "source": "n8n-io/skills",
+      "source_commit": "626f50fdf2934116eea2c5469339e03d2d524e83",
+      "source_path": "skills/n8n-error-handling-official/references/ERROR_WORKFLOWS.md",
+      "path": "intake/n8n/n8n-error-handling-official/references/ERROR_WORKFLOWS.md",
+      "git_blob_sha": "d8d345a54f79375ff67b62cc326d5e374377643d"
+    },
+    {
+      "source": "n8n-io/skills",
+      "source_commit": "626f50fdf2934116eea2c5469339e03d2d524e83",
+      "source_path": "skills/n8n-error-handling-official/references/NODE_ERROR_OUTPUTS.md",
+      "path": "intake/n8n/n8n-error-handling-official/references/NODE_ERROR_OUTPUTS.md",
+      "git_blob_sha": "050cf9fc6da4769adc81e51a65f28857138cabed"
+    },
+    {
+      "source": "n8n-io/skills",
+      "source_commit": "626f50fdf2934116eea2c5469339e03d2d524e83",
+      "source_path": "skills/n8n-error-handling-official/references/RESPONSE_SHAPES.md",
+      "path": "intake/n8n/n8n-error-handling-official/references/RESPONSE_SHAPES.md",
+      "git_blob_sha": "fa0e36b93bcec4363fcc2fc15f616b4440138ca5"
+    },
+    {
+      "source": "n8n-io/skills",
+      "source_commit": "626f50fdf2934116eea2c5469339e03d2d524e83",
+      "source_path": "skills/n8n-error-handling-official/references/examples/validation-subworkflow-usage.ts",
+      "path": "intake/n8n/n8n-error-handling-official/references/examples/validation-subworkflow-usage.ts",
+      "git_blob_sha": "ff3a8a0b318de6940a3411038df750ee1c59624c"
+    },
+    {
+      "source": "n8n-io/skills",
+      "source_commit": "626f50fdf2934116eea2c5469339e03d2d524e83",
+      "source_path": "skills/n8n-error-handling-official/references/examples/validation-subworkflow.ts",
+      "path": "intake/n8n/n8n-error-handling-official/references/examples/validation-subworkflow.ts",
+      "git_blob_sha": "815887197a5148514fd9a60d80944942b1e6b2a0"
+    },
+    {
+      "source": "n8n-io/skills",
+      "source_commit": "626f50fdf2934116eea2c5469339e03d2d524e83",
+      "source_path": "skills/n8n-subworkflows-official/SKILL.md",
+      "path": "intake/n8n/n8n-subworkflows-official/SKILL.md",
+      "git_blob_sha": "7b28ce283bab63de3734935304a54ff0802c56da"
+    },
+    {
+      "source": "n8n-io/skills",
+      "source_commit": "626f50fdf2934116eea2c5469339e03d2d524e83",
+      "source_path": "skills/n8n-subworkflows-official/references/NAMING_AND_DISCOVERY.md",
+      "path": "intake/n8n/n8n-subworkflows-official/references/NAMING_AND_DISCOVERY.md",
+      "git_blob_sha": "6b301cb722066d59842bb251ed607d9947cdb8e2"
+    },
+    {
+      "source": "n8n-io/skills",
+      "source_commit": "626f50fdf2934116eea2c5469339e03d2d524e83",
+      "source_path": "skills/n8n-subworkflows-official/references/SUBWORKFLOW_PATTERNS.md",
+      "path": "intake/n8n/n8n-subworkflows-official/references/SUBWORKFLOW_PATTERNS.md",
+      "git_blob_sha": "07b9c45912cc76eb34bd0ed109a1a26d0a118f3d"
     }
   ]
 }
