@@ -169,6 +169,251 @@
       "source_path": "LICENSE",
       "path": "intake/microsoft/LICENSE",
       "git_blob_sha": "cefe596afef12e19a8e5e923f1a04c7da3188760"
+    },
+    {
+      "source": "MustBeSimo/web-design-studio",
+      "source_commit": "674f211abfeb9707d2424d553bb5b1af3613025f",
+      "source_path": "skills/cinematic-scroll/.clawhubignore",
+      "path": "intake/web-design-studio/cinematic-scroll/.clawhubignore",
+      "git_blob_sha": "8a4f58c215afd69141b31e8a783d2eeb64eed72f"
+    },
+    {
+      "source": "MustBeSimo/web-design-studio",
+      "source_commit": "674f211abfeb9707d2424d553bb5b1af3613025f",
+      "source_path": "skills/cinematic-scroll/SKILL.md",
+      "path": "intake/web-design-studio/cinematic-scroll/SKILL.md",
+      "git_blob_sha": "b1a9cb4f24970411ade2428d7f801117fee0292c"
+    },
+    {
+      "source": "MustBeSimo/web-design-studio",
+      "source_commit": "674f211abfeb9707d2424d553bb5b1af3613025f",
+      "source_path": "skills/cinematic-scroll/references/bake-pipeline.md",
+      "path": "intake/web-design-studio/cinematic-scroll/references/bake-pipeline.md",
+      "git_blob_sha": "04b229223c341691deeb64d19600fea6835907f9"
+    },
+    {
+      "source": "MustBeSimo/web-design-studio",
+      "source_commit": "674f211abfeb9707d2424d553bb5b1af3613025f",
+      "source_path": "skills/cinematic-scroll/references/editorial-story.md",
+      "path": "intake/web-design-studio/cinematic-scroll/references/editorial-story.md",
+      "git_blob_sha": "bb5a1deea640c4108f5835568fa87004c8bed7b7"
+    },
+    {
+      "source": "MustBeSimo/web-design-studio",
+      "source_commit": "674f211abfeb9707d2424d553bb5b1af3613025f",
+      "source_path": "skills/cinematic-scroll/references/implementation.md",
+      "path": "intake/web-design-studio/cinematic-scroll/references/implementation.md",
+      "git_blob_sha": "909f31831ff71c976609b9f4116b865d153161ed"
+    },
+    {
+      "source": "MustBeSimo/web-design-studio",
+      "source_commit": "674f211abfeb9707d2424d553bb5b1af3613025f",
+      "source_path": "skills/cinematic-scroll/references/interaction-design.md",
+      "path": "intake/web-design-studio/cinematic-scroll/references/interaction-design.md",
+      "git_blob_sha": "008a0d1a86c3a0e9b649553bc52fdd8adafda3b1"
+    },
+    {
+      "source": "MustBeSimo/web-design-studio",
+      "source_commit": "674f211abfeb9707d2424d553bb5b1af3613025f",
+      "source_path": "skills/cinematic-scroll/references/motion-toolkit.md",
+      "path": "intake/web-design-studio/cinematic-scroll/references/motion-toolkit.md",
+      "git_blob_sha": "1c8434d8825910e1eebf5d689f54914c469a5db5"
+    },
+    {
+      "source": "MustBeSimo/web-design-studio",
+      "source_commit": "674f211abfeb9707d2424d553bb5b1af3613025f",
+      "source_path": "skills/cinematic-scroll/references/product-reveal.md",
+      "path": "intake/web-design-studio/cinematic-scroll/references/product-reveal.md",
+      "git_blob_sha": "e7c4c6ac7b7d357ab9e0fb06715b7fabea88c138"
+    },
+    {
+      "source": "MustBeSimo/web-design-studio",
+      "source_commit": "674f211abfeb9707d2424d553bb5b1af3613025f",
+      "source_path": "skills/cinematic-scroll/references/real-time-3d.md",
+      "path": "intake/web-design-studio/cinematic-scroll/references/real-time-3d.md",
+      "git_blob_sha": "9b7f34576de1d0ee0792e4613a0cfbd5aff673c4"
+    },
+    {
+      "source": "MustBeSimo/web-design-studio",
+      "source_commit": "674f211abfeb9707d2424d553bb5b1af3613025f",
+      "source_path": "skills/cinematic-scroll/references/recipe-catalog.md",
+      "path": "intake/web-design-studio/cinematic-scroll/references/recipe-catalog.md",
+      "git_blob_sha": "35f8164ee169fc49c79a34958af2f68fbb86f9a1"
+    },
+    {
+      "source": "MustBeSimo/web-design-studio",
+      "source_commit": "674f211abfeb9707d2424d553bb5b1af3613025f",
+      "source_path": "skills/cinematic-scroll/references/splat-scene.md",
+      "path": "intake/web-design-studio/cinematic-scroll/references/splat-scene.md",
+      "git_blob_sha": "34ebf252aedfd15403aba69bc9c2812177d7492a"
+    },
+    {
+      "source": "MustBeSimo/web-design-studio",
+      "source_commit": "674f211abfeb9707d2424d553bb5b1af3613025f",
+      "source_path": "skills/cinematic-scroll/references/stack-shelf.md",
+      "path": "intake/web-design-studio/cinematic-scroll/references/stack-shelf.md",
+      "git_blob_sha": "236a938e5b9dc65ede190d3cb9af56066f03d053"
+    },
+    {
+      "source": "MustBeSimo/web-design-studio",
+      "source_commit": "674f211abfeb9707d2424d553bb5b1af3613025f",
+      "source_path": "skills/cinematic-scroll/references/story-direction.md",
+      "path": "intake/web-design-studio/cinematic-scroll/references/story-direction.md",
+      "git_blob_sha": "ccfe5bd52cb9cfc129db8cb0de62dfee88748ef6"
+    },
+    {
+      "source": "MustBeSimo/web-design-studio",
+      "source_commit": "674f211abfeb9707d2424d553bb5b1af3613025f",
+      "source_path": "skills/cinematic-scroll/references/verification.md",
+      "path": "intake/web-design-studio/cinematic-scroll/references/verification.md",
+      "git_blob_sha": "6a37a0581f0366c8e61c71eebbc471ebf1aa0423"
+    },
+    {
+      "source": "MustBeSimo/web-design-studio",
+      "source_commit": "674f211abfeb9707d2424d553bb5b1af3613025f",
+      "source_path": "skills/scroll-audit/.clawhubignore",
+      "path": "intake/web-design-studio/scroll-audit/.clawhubignore",
+      "git_blob_sha": "8a4f58c215afd69141b31e8a783d2eeb64eed72f"
+    },
+    {
+      "source": "MustBeSimo/web-design-studio",
+      "source_commit": "674f211abfeb9707d2424d553bb5b1af3613025f",
+      "source_path": "skills/scroll-audit/SKILL.md",
+      "path": "intake/web-design-studio/scroll-audit/SKILL.md",
+      "git_blob_sha": "7a532d3edcd4be8ba306d54f6ab80a2398e6559b"
+    },
+    {
+      "source": "MustBeSimo/web-design-studio",
+      "source_commit": "674f211abfeb9707d2424d553bb5b1af3613025f",
+      "source_path": "skills/scroll-audit/references/detection.md",
+      "path": "intake/web-design-studio/scroll-audit/references/detection.md",
+      "git_blob_sha": "309c7684c4207813e73fa806ca607d2412d7a8cb"
+    },
+    {
+      "source": "MustBeSimo/web-design-studio",
+      "source_commit": "674f211abfeb9707d2424d553bb5b1af3613025f",
+      "source_path": "skills/scroll-audit/references/example-remediation-plan.md",
+      "path": "intake/web-design-studio/scroll-audit/references/example-remediation-plan.md",
+      "git_blob_sha": "1193821606285e11294b7d9da28657957571568d"
+    },
+    {
+      "source": "MustBeSimo/web-design-studio",
+      "source_commit": "674f211abfeb9707d2424d553bb5b1af3613025f",
+      "source_path": "skills/scroll-audit/references/report-template.md",
+      "path": "intake/web-design-studio/scroll-audit/references/report-template.md",
+      "git_blob_sha": "0c2161fe5230b11656b26deaf348417c50585f5c"
+    },
+    {
+      "source": "MustBeSimo/web-design-studio",
+      "source_commit": "674f211abfeb9707d2424d553bb5b1af3613025f",
+      "source_path": "skills/scroll-audit/references/scoring.md",
+      "path": "intake/web-design-studio/scroll-audit/references/scoring.md",
+      "git_blob_sha": "433742efbf40e575a2da8965ff5c09ac0e582d6d"
+    },
+    {
+      "source": "MustBeSimo/web-design-studio",
+      "source_commit": "674f211abfeb9707d2424d553bb5b1af3613025f",
+      "source_path": "LICENSE",
+      "path": "intake/web-design-studio/LICENSE",
+      "git_blob_sha": "583ad09b6b33f960965c66467321eb37595c7217"
+    },
+    {
+      "source": "getsentry/skills",
+      "source_commit": "a582c51ee29d0f35e6ac321340796f77d43da733",
+      "source_path": "skills/gha-security-review/SKILL.md",
+      "path": "intake/sentry/gha-security-review/SKILL.md",
+      "git_blob_sha": "7ef6c6ed67a57539e62e6465acf5a8a45fab12d0"
+    },
+    {
+      "source": "getsentry/skills",
+      "source_commit": "a582c51ee29d0f35e6ac321340796f77d43da733",
+      "source_path": "skills/gha-security-review/references/ai-prompt-injection-via-ci.md",
+      "path": "intake/sentry/gha-security-review/references/ai-prompt-injection-via-ci.md",
+      "git_blob_sha": "be1c9497f4c140818dd2bc925244fa0d3a48d53e"
+    },
+    {
+      "source": "getsentry/skills",
+      "source_commit": "a582c51ee29d0f35e6ac321340796f77d43da733",
+      "source_path": "skills/gha-security-review/references/comment-triggered-commands.md",
+      "path": "intake/sentry/gha-security-review/references/comment-triggered-commands.md",
+      "git_blob_sha": "a1d651ed35ec333c9afcaf328cadca4c6b7fb5e4"
+    },
+    {
+      "source": "getsentry/skills",
+      "source_commit": "a582c51ee29d0f35e6ac321340796f77d43da733",
+      "source_path": "skills/gha-security-review/references/credential-escalation.md",
+      "path": "intake/sentry/gha-security-review/references/credential-escalation.md",
+      "git_blob_sha": "805a301dff90376a947cab3ab953074378814e57"
+    },
+    {
+      "source": "getsentry/skills",
+      "source_commit": "a582c51ee29d0f35e6ac321340796f77d43da733",
+      "source_path": "skills/gha-security-review/references/expression-injection.md",
+      "path": "intake/sentry/gha-security-review/references/expression-injection.md",
+      "git_blob_sha": "dca326d2f7067b8921c4fc47e01ccc8a56bb6c78"
+    },
+    {
+      "source": "getsentry/skills",
+      "source_commit": "a582c51ee29d0f35e6ac321340796f77d43da733",
+      "source_path": "skills/gha-security-review/references/permissions-and-secrets.md",
+      "path": "intake/sentry/gha-security-review/references/permissions-and-secrets.md",
+      "git_blob_sha": "3a809e928c13d537af5527dcf3c7fbe63d588c03"
+    },
+    {
+      "source": "getsentry/skills",
+      "source_commit": "a582c51ee29d0f35e6ac321340796f77d43da733",
+      "source_path": "skills/gha-security-review/references/pwn-request.md",
+      "path": "intake/sentry/gha-security-review/references/pwn-request.md",
+      "git_blob_sha": "0a2046843146aaff7dd09e303715e0bda0e0db89"
+    },
+    {
+      "source": "getsentry/skills",
+      "source_commit": "a582c51ee29d0f35e6ac321340796f77d43da733",
+      "source_path": "skills/gha-security-review/references/real-world-attacks.md",
+      "path": "intake/sentry/gha-security-review/references/real-world-attacks.md",
+      "git_blob_sha": "2b24e2a5b30a0463d2a750d752a68d9b05799418"
+    },
+    {
+      "source": "getsentry/skills",
+      "source_commit": "a582c51ee29d0f35e6ac321340796f77d43da733",
+      "source_path": "skills/gha-security-review/references/runner-infrastructure.md",
+      "path": "intake/sentry/gha-security-review/references/runner-infrastructure.md",
+      "git_blob_sha": "6aafbdbf62e29cc3ca6355bd31bc3780672f9120"
+    },
+    {
+      "source": "getsentry/skills",
+      "source_commit": "a582c51ee29d0f35e6ac321340796f77d43da733",
+      "source_path": "skills/gha-security-review/references/supply-chain.md",
+      "path": "intake/sentry/gha-security-review/references/supply-chain.md",
+      "git_blob_sha": "7a9d1a012dcef748de83b5960bce715ffc3758c0"
+    },
+    {
+      "source": "expo/skills",
+      "source_commit": "88d9bd79f3fa8452a778fbac65bae162c0b32ce4",
+      "source_path": "plugins/expo/skills/expo-animation/LICENSE",
+      "path": "intake/expo/expo-animation/LICENSE",
+      "git_blob_sha": "57b46f1fd11dc62351ea548104a88aa3f659c11b"
+    },
+    {
+      "source": "expo/skills",
+      "source_commit": "88d9bd79f3fa8452a778fbac65bae162c0b32ce4",
+      "source_path": "plugins/expo/skills/expo-animation/RECIPES.md",
+      "path": "intake/expo/expo-animation/RECIPES.md",
+      "git_blob_sha": "92c64f12cd118df764499466eb0315b233a52c76"
+    },
+    {
+      "source": "expo/skills",
+      "source_commit": "88d9bd79f3fa8452a778fbac65bae162c0b32ce4",
+      "source_path": "plugins/expo/skills/expo-animation/SKILL.md",
+      "path": "intake/expo/expo-animation/SKILL.md",
+      "git_blob_sha": "07295a56393ebd0b49d9040b4f7abdc7495cda76"
+    },
+    {
+      "source": "expo/skills",
+      "source_commit": "88d9bd79f3fa8452a778fbac65bae162c0b32ce4",
+      "source_path": "plugins/expo/skills/expo-animation/agents/openai.yaml",
+      "path": "intake/expo/expo-animation/agents/openai.yaml",
+      "git_blob_sha": "312c925934e07a3781d1d0c9e196efe2f96f0603"
     }
   ]
 }
