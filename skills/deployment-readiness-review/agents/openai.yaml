@@ -1,0 +1,3 @@
+interface:
+  display_name: "Deployment Readiness Review"
+  short_description: "Review Node.js, Express, PHP, React and Vite deployments for Hostinger-styl"

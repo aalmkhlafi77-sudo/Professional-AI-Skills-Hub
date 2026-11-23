@@ -1,0 +1,3 @@
+interface:
+  display_name: "Secure Code Review"
+  short_description: "Review application code and deployment configuration for common security fl"
