@@ -50,7 +50,7 @@ if ! run_fixture positive.json "$WORK/positive.log"; then
   echo "FAIL: positive fixture failed"
   exit 1
 fi
-if ! grep -Eqi 'execution finished|execution successful|successfully executed|finished execution' "$WORK/positive.log"; then
+if ! grep -Eq '"executionStatus": "success"' "$WORK/positive.log" || ! grep -Eq '"fixture": "offline-ok"' "$WORK/positive.log"; then
   tail -n 80 "$WORK/positive.log"
   echo "FAIL: expected execution success evidence not present"
   exit 1
