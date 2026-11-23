@@ -170,6 +170,21 @@
         }
       ],
       "notes": "Official vendor guidance; quarantined, not authorized for production SQL or RLS changes."
+    },
+    {
+      "id": "laravel/boost",
+      "commit": "6004f09e71fe199880a671df6dc34a6e731ba1ea",
+      "license": "MIT",
+      "license_file": "intake/laravel/LICENSE.md",
+      "prefix": "intake/laravel/",
+      "entries": [
+        {
+          "skill": "laravel-best-practices",
+          "path": "intake/laravel/laravel-best-practices/SKILL.md",
+          "notes": "Official Laravel PHP backend security, validation, migrations, Eloquent, database performance and routing; Laravel-specific, not generic PHP/MySQL."
+        }
+      ],
+      "notes": "Official Laravel Boost source; includes .blade.php templates that are source text only and must not be executed during intake."
     }
   ]
 }
