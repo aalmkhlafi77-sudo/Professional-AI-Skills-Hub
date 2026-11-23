@@ -1,0 +1,3 @@
+interface:
+  display_name: "Browser QA Review"
+  short_description: "Safe browser checks for responsive UI and regressions"
