@@ -1,0 +1,60 @@
+name: Package first-party ChatGPT skills
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'skills/**'
+      - '.github/workflows/package-chatgpt-skills.yml'
+jobs:
+  package:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate and package each skill separately
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import zipfile, re, sys
+          root=Path("skills")
+          out=Path("dist/chatgpt-skills")
+          out.mkdir(parents=True, exist_ok=True)
+          expected={
+            "backup-restore-assurance","browser-qa-review","cinematic-gsap-review",
+            "deployment-readiness-review","excel-import-integrity","github-pr-quality-gate",
+            "local-visual-regression","media-pipeline-review","mysql-data-integrity-review",
+            "plain-php-mysql-security","react-quality-review","responsive-ui-audit",
+            "secure-code-review","skill-source-auditor"
+          }
+          found={p.name for p in root.iterdir() if p.is_dir()}
+          if found != expected:
+            sys.exit(f"Unexpected active skill set: missing={expected-found}, extra={found-expected}")
+          for name in sorted(expected):
+            d=root/name
+            entry=d/"SKILL.md"
+            metadata=d/"agents/openai.yaml"
+            if not entry.is_file() or not metadata.is_file():
+              sys.exit(f"Missing entrypoint or metadata for {name}")
+            data=entry.read_text(encoding="utf-8")
+            if not data.startswith("---\n") or not re.search(r"(?m)^name:\s*"+re.escape(name)+r"\s*$",data):
+              sys.exit(f"Invalid skill frontmatter: {name}")
+            files=sorted(p for p in d.rglob("*") if p.is_file())
+            if any(p.is_symlink() for p in d.rglob("*")):
+              sys.exit(f"Symlink not allowed in package: {name}")
+            with zipfile.ZipFile(out/(name+".zip"),"w",zipfile.ZIP_DEFLATED) as z:
+              for f in files:
+                z.write(f,arcname=str(f.relative_to(root)))
+            with zipfile.ZipFile(out/(name+".zip")) as z:
+              assert name+"/SKILL.md" in z.namelist()
+              assert name+"/agents/openai.yaml" in z.namelist()
+          print(f"Validated and packaged {len(expected)} individual skills")
+          PY
+      - name: Upload individual skill ZIPs
+        uses: actions/upload-artifact@v4
+        with:
+          name: chatgpt-first-party-skills
+          path: dist/chatgpt-skills/*.zip
+          if-no-files-found: error
+          retention-days: 30
