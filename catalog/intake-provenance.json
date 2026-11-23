@@ -1,0 +1,174 @@
+{
+  "schema_version": 1,
+  "status": "quarantined-unapproved",
+  "files": [
+    {
+      "source": "greensock/gsap-skills",
+      "source_commit": "aed9cfd3277740755f6bfc1155c7aa645403b760",
+      "source_path": "skills/gsap-core/SKILL.md",
+      "path": "intake/greensock/gsap-core/SKILL.md",
+      "git_blob_sha": "98639432f4112b664aa5e53cf5d8ea1a4697eff9"
+    },
+    {
+      "source": "greensock/gsap-skills",
+      "source_commit": "aed9cfd3277740755f6bfc1155c7aa645403b760",
+      "source_path": "skills/gsap-react/SKILL.md",
+      "path": "intake/greensock/gsap-react/SKILL.md",
+      "git_blob_sha": "e2e51805457943cd4982fe792b858c14fa2c3c8f"
+    },
+    {
+      "source": "greensock/gsap-skills",
+      "source_commit": "aed9cfd3277740755f6bfc1155c7aa645403b760",
+      "source_path": "skills/gsap-scrolltrigger/SKILL.md",
+      "path": "intake/greensock/gsap-scrolltrigger/SKILL.md",
+      "git_blob_sha": "6d8c09f2136c108595c9e0db859c4a39460e99cf"
+    },
+    {
+      "source": "greensock/gsap-skills",
+      "source_commit": "aed9cfd3277740755f6bfc1155c7aa645403b760",
+      "source_path": "skills/gsap-performance/SKILL.md",
+      "path": "intake/greensock/gsap-performance/SKILL.md",
+      "git_blob_sha": "05792acf5b0ea7fd30042cdc5e91282e8e047898"
+    },
+    {
+      "source": "greensock/gsap-skills",
+      "source_commit": "aed9cfd3277740755f6bfc1155c7aa645403b760",
+      "source_path": "skills/gsap-timeline/SKILL.md",
+      "path": "intake/greensock/gsap-timeline/SKILL.md",
+      "git_blob_sha": "1fed372b0e5276b2a207d80bc23f81180a0dff55"
+    },
+    {
+      "source": "greensock/gsap-skills",
+      "source_commit": "aed9cfd3277740755f6bfc1155c7aa645403b760",
+      "source_path": "LICENSE",
+      "path": "intake/greensock/LICENSE",
+      "git_blob_sha": "fa2fe218371ee47b741db9d0fa7cf17cddc03eb8"
+    },
+    {
+      "source": "getsentry/skills",
+      "source_commit": "a582c51ee29d0f35e6ac321340796f77d43da733",
+      "source_path": "skills/skill-scanner/SKILL.md",
+      "path": "intake/sentry/skill-scanner/SKILL.md",
+      "git_blob_sha": "c4faa021ceb71271bfc1c379eb7f8510da1cf5d4"
+    },
+    {
+      "source": "getsentry/skills",
+      "source_commit": "a582c51ee29d0f35e6ac321340796f77d43da733",
+      "source_path": "skills/skill-scanner/references/dangerous-code-patterns.md",
+      "path": "intake/sentry/skill-scanner/references/dangerous-code-patterns.md",
+      "git_blob_sha": "974073260eb9fa199efcd9cd0f21b0f7f31fe694"
+    },
+    {
+      "source": "getsentry/skills",
+      "source_commit": "a582c51ee29d0f35e6ac321340796f77d43da733",
+      "source_path": "skills/skill-scanner/references/permission-analysis.md",
+      "path": "intake/sentry/skill-scanner/references/permission-analysis.md",
+      "git_blob_sha": "ac33919098695e551faf5d478f5b4318ebc4721b"
+    },
+    {
+      "source": "getsentry/skills",
+      "source_commit": "a582c51ee29d0f35e6ac321340796f77d43da733",
+      "source_path": "skills/skill-scanner/references/prompt-injection-patterns.md",
+      "path": "intake/sentry/skill-scanner/references/prompt-injection-patterns.md",
+      "git_blob_sha": "a675bd5f946b83abbdaba3a21c827214d88b0df7"
+    },
+    {
+      "source": "getsentry/skills",
+      "source_commit": "a582c51ee29d0f35e6ac321340796f77d43da733",
+      "source_path": "skills/skill-scanner/scripts/scan_skill.py",
+      "path": "intake/sentry/skill-scanner/scripts/scan_skill.py",
+      "git_blob_sha": "14aaa7b059c659ea5c2719fa266f19641dfd9d3d"
+    },
+    {
+      "source": "getsentry/skills",
+      "source_commit": "a582c51ee29d0f35e6ac321340796f77d43da733",
+      "source_path": "LICENSE",
+      "path": "intake/sentry/LICENSE",
+      "git_blob_sha": "753a6c03c60a9232405d05170bd3ad3cab49a1ef"
+    },
+    {
+      "source": "microsoft/playwright-cli",
+      "source_commit": "c872a33cec77fa03c28fa7c6d1ad99d15d04ce42",
+      "source_path": "skills/playwright-cli/SKILL.md",
+      "path": "intake/microsoft/playwright-cli/SKILL.md",
+      "git_blob_sha": "4ad911bdb742adc1728ea4b3eb6c208e379386fa"
+    },
+    {
+      "source": "microsoft/playwright-cli",
+      "source_commit": "c872a33cec77fa03c28fa7c6d1ad99d15d04ce42",
+      "source_path": "skills/playwright-cli/references/element-attributes.md",
+      "path": "intake/microsoft/playwright-cli/references/element-attributes.md",
+      "git_blob_sha": "4e9fa6b99103bbe4e1262c37a9c4a664dfe1dbd5"
+    },
+    {
+      "source": "microsoft/playwright-cli",
+      "source_commit": "c872a33cec77fa03c28fa7c6d1ad99d15d04ce42",
+      "source_path": "skills/playwright-cli/references/playwright-tests.md",
+      "path": "intake/microsoft/playwright-cli/references/playwright-tests.md",
+      "git_blob_sha": "bec2ec90e4adbc6ed56f06ab19c34916ce7f736b"
+    },
+    {
+      "source": "microsoft/playwright-cli",
+      "source_commit": "c872a33cec77fa03c28fa7c6d1ad99d15d04ce42",
+      "source_path": "skills/playwright-cli/references/pr-attachments.md",
+      "path": "intake/microsoft/playwright-cli/references/pr-attachments.md",
+      "git_blob_sha": "91663b58bccf34b1cd2790ef8ae335d45b3d99df"
+    },
+    {
+      "source": "microsoft/playwright-cli",
+      "source_commit": "c872a33cec77fa03c28fa7c6d1ad99d15d04ce42",
+      "source_path": "skills/playwright-cli/references/request-mocking.md",
+      "path": "intake/microsoft/playwright-cli/references/request-mocking.md",
+      "git_blob_sha": "9005fda67dfc4af13848fd9ebedee08420aeec97"
+    },
+    {
+      "source": "microsoft/playwright-cli",
+      "source_commit": "c872a33cec77fa03c28fa7c6d1ad99d15d04ce42",
+      "source_path": "skills/playwright-cli/references/running-code.md",
+      "path": "intake/microsoft/playwright-cli/references/running-code.md",
+      "git_blob_sha": "565eefdb584a6e904ceb86701fd789977840a6d4"
+    },
+    {
+      "source": "microsoft/playwright-cli",
+      "source_commit": "c872a33cec77fa03c28fa7c6d1ad99d15d04ce42",
+      "source_path": "skills/playwright-cli/references/session-management.md",
+      "path": "intake/microsoft/playwright-cli/references/session-management.md",
+      "git_blob_sha": "96f126b56e1b0b6d91d918f6b2987d9ec68d4dfd"
+    },
+    {
+      "source": "microsoft/playwright-cli",
+      "source_commit": "c872a33cec77fa03c28fa7c6d1ad99d15d04ce42",
+      "source_path": "skills/playwright-cli/references/storage-state.md",
+      "path": "intake/microsoft/playwright-cli/references/storage-state.md",
+      "git_blob_sha": "e2390da8da25ce03d559d2a199bc4bb69f880cce"
+    },
+    {
+      "source": "microsoft/playwright-cli",
+      "source_commit": "c872a33cec77fa03c28fa7c6d1ad99d15d04ce42",
+      "source_path": "skills/playwright-cli/references/test-generation.md",
+      "path": "intake/microsoft/playwright-cli/references/test-generation.md",
+      "git_blob_sha": "49c76d2991f9165f77e9b9755dbdd4996ab8e586"
+    },
+    {
+      "source": "microsoft/playwright-cli",
+      "source_commit": "c872a33cec77fa03c28fa7c6d1ad99d15d04ce42",
+      "source_path": "skills/playwright-cli/references/tracing.md",
+      "path": "intake/microsoft/playwright-cli/references/tracing.md",
+      "git_blob_sha": "88d7eab6216c72645b198482813fe94cbb5b6ec1"
+    },
+    {
+      "source": "microsoft/playwright-cli",
+      "source_commit": "c872a33cec77fa03c28fa7c6d1ad99d15d04ce42",
+      "source_path": "skills/playwright-cli/references/video-recording.md",
+      "path": "intake/microsoft/playwright-cli/references/video-recording.md",
+      "git_blob_sha": "f0b528ab1a70f2e8d5a828862a3dd89b8644239b"
+    },
+    {
+      "source": "microsoft/playwright-cli",
+      "source_commit": "c872a33cec77fa03c28fa7c6d1ad99d15d04ce42",
+      "source_path": "LICENSE",
+      "path": "intake/microsoft/LICENSE",
+      "git_blob_sha": "cefe596afef12e19a8e5e923f1a04c7da3188760"
+    }
+  ]
+}
