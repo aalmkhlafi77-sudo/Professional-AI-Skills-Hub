@@ -701,6 +701,265 @@
       "source_path": "plugins/expo/skills/expo-native-ui/references/webgpu-three.md",
       "path": "intake/expo/expo-native-ui/references/webgpu-three.md",
       "git_blob_sha": "58b5ce8046255f2c729b338da837a7e18804c356"
+    },
+    {
+      "source": "supabase/agent-skills",
+      "source_commit": "c9be0e931b7930f7d02126d04774d904c381e7d7",
+      "source_path": "LICENSE",
+      "path": "intake/supabase/LICENSE",
+      "git_blob_sha": "d3c9e94fbc6c28f66ecb5a01407d543c99c811b6"
+    },
+    {
+      "source": "supabase/agent-skills",
+      "source_commit": "c9be0e931b7930f7d02126d04774d904c381e7d7",
+      "source_path": "skills/supabase-postgres-best-practices/CHANGELOG.md",
+      "path": "intake/supabase/supabase-postgres-best-practices/CHANGELOG.md",
+      "git_blob_sha": "6d7d0d2acd380d09be9a4431037858149ce3496f"
+    },
+    {
+      "source": "supabase/agent-skills",
+      "source_commit": "c9be0e931b7930f7d02126d04774d904c381e7d7",
+      "source_path": "skills/supabase-postgres-best-practices/SKILL.md",
+      "path": "intake/supabase/supabase-postgres-best-practices/SKILL.md",
+      "git_blob_sha": "6400792389dfcc82c81953054e546bd72ebcd259"
+    },
+    {
+      "source": "supabase/agent-skills",
+      "source_commit": "c9be0e931b7930f7d02126d04774d904c381e7d7",
+      "source_path": "skills/supabase-postgres-best-practices/references/_contributing.md",
+      "path": "intake/supabase/supabase-postgres-best-practices/references/_contributing.md",
+      "git_blob_sha": "1c055aff9ad2bf12cfe7edc0002f2f77fe6980d2"
+    },
+    {
+      "source": "supabase/agent-skills",
+      "source_commit": "c9be0e931b7930f7d02126d04774d904c381e7d7",
+      "source_path": "skills/supabase-postgres-best-practices/references/_sections.md",
+      "path": "intake/supabase/supabase-postgres-best-practices/references/_sections.md",
+      "git_blob_sha": "8ba57c23e8119e411fcc8a230cda08e695792cac"
+    },
+    {
+      "source": "supabase/agent-skills",
+      "source_commit": "c9be0e931b7930f7d02126d04774d904c381e7d7",
+      "source_path": "skills/supabase-postgres-best-practices/references/_template.md",
+      "path": "intake/supabase/supabase-postgres-best-practices/references/_template.md",
+      "git_blob_sha": "91ace90e10a4d8ef354a82bb1994842e6979ebed"
+    },
+    {
+      "source": "supabase/agent-skills",
+      "source_commit": "c9be0e931b7930f7d02126d04774d904c381e7d7",
+      "source_path": "skills/supabase-postgres-best-practices/references/advanced-full-text-search.md",
+      "path": "intake/supabase/supabase-postgres-best-practices/references/advanced-full-text-search.md",
+      "git_blob_sha": "582cbeaada9378a280ad61f57e06c10d258e3c43"
+    },
+    {
+      "source": "supabase/agent-skills",
+      "source_commit": "c9be0e931b7930f7d02126d04774d904c381e7d7",
+      "source_path": "skills/supabase-postgres-best-practices/references/advanced-jsonb-indexing.md",
+      "path": "intake/supabase/supabase-postgres-best-practices/references/advanced-jsonb-indexing.md",
+      "git_blob_sha": "e3d261ea117fd7b1ad9c4f0d45308407b898ed5a"
+    },
+    {
+      "source": "supabase/agent-skills",
+      "source_commit": "c9be0e931b7930f7d02126d04774d904c381e7d7",
+      "source_path": "skills/supabase-postgres-best-practices/references/conn-idle-timeout.md",
+      "path": "intake/supabase/supabase-postgres-best-practices/references/conn-idle-timeout.md",
+      "git_blob_sha": "40b9cc50dd12cf347ed189fac965673b533f3f99"
+    },
+    {
+      "source": "supabase/agent-skills",
+      "source_commit": "c9be0e931b7930f7d02126d04774d904c381e7d7",
+      "source_path": "skills/supabase-postgres-best-practices/references/conn-limits.md",
+      "path": "intake/supabase/supabase-postgres-best-practices/references/conn-limits.md",
+      "git_blob_sha": "cb3e400c0234e7e9196c1650423faad66375b70b"
+    },
+    {
+      "source": "supabase/agent-skills",
+      "source_commit": "c9be0e931b7930f7d02126d04774d904c381e7d7",
+      "source_path": "skills/supabase-postgres-best-practices/references/conn-pooling.md",
+      "path": "intake/supabase/supabase-postgres-best-practices/references/conn-pooling.md",
+      "git_blob_sha": "e2ebd581d3c85bff0a077e8d9a2cb562d2513d03"
+    },
+    {
+      "source": "supabase/agent-skills",
+      "source_commit": "c9be0e931b7930f7d02126d04774d904c381e7d7",
+      "source_path": "skills/supabase-postgres-best-practices/references/conn-prepared-statements.md",
+      "path": "intake/supabase/supabase-postgres-best-practices/references/conn-prepared-statements.md",
+      "git_blob_sha": "555547d834e35b5059152dfb2288eca5e9838ea0"
+    },
+    {
+      "source": "supabase/agent-skills",
+      "source_commit": "c9be0e931b7930f7d02126d04774d904c381e7d7",
+      "source_path": "skills/supabase-postgres-best-practices/references/data-batch-inserts.md",
+      "path": "intake/supabase/supabase-postgres-best-practices/references/data-batch-inserts.md",
+      "git_blob_sha": "997947cb17bfed67f29eaa8da2a58de2306cc2c1"
+    },
+    {
+      "source": "supabase/agent-skills",
+      "source_commit": "c9be0e931b7930f7d02126d04774d904c381e7d7",
+      "source_path": "skills/supabase-postgres-best-practices/references/data-n-plus-one.md",
+      "path": "intake/supabase/supabase-postgres-best-practices/references/data-n-plus-one.md",
+      "git_blob_sha": "2109186ff88b3ba1cc32789f81e2a00d345c6e3f"
+    },
+    {
+      "source": "supabase/agent-skills",
+      "source_commit": "c9be0e931b7930f7d02126d04774d904c381e7d7",
+      "source_path": "skills/supabase-postgres-best-practices/references/data-pagination.md",
+      "path": "intake/supabase/supabase-postgres-best-practices/references/data-pagination.md",
+      "git_blob_sha": "633d839323612e212a833dd96828cb31fdfb39f8"
+    },
+    {
+      "source": "supabase/agent-skills",
+      "source_commit": "c9be0e931b7930f7d02126d04774d904c381e7d7",
+      "source_path": "skills/supabase-postgres-best-practices/references/data-upsert.md",
+      "path": "intake/supabase/supabase-postgres-best-practices/references/data-upsert.md",
+      "git_blob_sha": "bc95e2305d955679446c70854cb2b56b183aa56d"
+    },
+    {
+      "source": "supabase/agent-skills",
+      "source_commit": "c9be0e931b7930f7d02126d04774d904c381e7d7",
+      "source_path": "skills/supabase-postgres-best-practices/references/lock-advisory.md",
+      "path": "intake/supabase/supabase-postgres-best-practices/references/lock-advisory.md",
+      "git_blob_sha": "572eaf0dcf518ac925c4cde41beb60b62852b79c"
+    },
+    {
+      "source": "supabase/agent-skills",
+      "source_commit": "c9be0e931b7930f7d02126d04774d904c381e7d7",
+      "source_path": "skills/supabase-postgres-best-practices/references/lock-deadlock-prevention.md",
+      "path": "intake/supabase/supabase-postgres-best-practices/references/lock-deadlock-prevention.md",
+      "git_blob_sha": "974da5edec32f79de0fcdc771d4ef759dc3e049d"
+    },
+    {
+      "source": "supabase/agent-skills",
+      "source_commit": "c9be0e931b7930f7d02126d04774d904c381e7d7",
+      "source_path": "skills/supabase-postgres-best-practices/references/lock-short-transactions.md",
+      "path": "intake/supabase/supabase-postgres-best-practices/references/lock-short-transactions.md",
+      "git_blob_sha": "e6b8ef2633248a4aa4394628e48d8cb693e7e6ab"
+    },
+    {
+      "source": "supabase/agent-skills",
+      "source_commit": "c9be0e931b7930f7d02126d04774d904c381e7d7",
+      "source_path": "skills/supabase-postgres-best-practices/references/lock-skip-locked.md",
+      "path": "intake/supabase/supabase-postgres-best-practices/references/lock-skip-locked.md",
+      "git_blob_sha": "77bdbb97045010ce2fdbd90733e8f764be82881a"
+    },
+    {
+      "source": "supabase/agent-skills",
+      "source_commit": "c9be0e931b7930f7d02126d04774d904c381e7d7",
+      "source_path": "skills/supabase-postgres-best-practices/references/monitor-explain-analyze.md",
+      "path": "intake/supabase/supabase-postgres-best-practices/references/monitor-explain-analyze.md",
+      "git_blob_sha": "542978c3bafc510fa8d7a8864cff994ad40be4d7"
+    },
+    {
+      "source": "supabase/agent-skills",
+      "source_commit": "c9be0e931b7930f7d02126d04774d904c381e7d7",
+      "source_path": "skills/supabase-postgres-best-practices/references/monitor-pg-stat-statements.md",
+      "path": "intake/supabase/supabase-postgres-best-practices/references/monitor-pg-stat-statements.md",
+      "git_blob_sha": "d7e82f1aacd105d53789eb6188d11e8ea39e7310"
+    },
+    {
+      "source": "supabase/agent-skills",
+      "source_commit": "c9be0e931b7930f7d02126d04774d904c381e7d7",
+      "source_path": "skills/supabase-postgres-best-practices/references/monitor-vacuum-analyze.md",
+      "path": "intake/supabase/supabase-postgres-best-practices/references/monitor-vacuum-analyze.md",
+      "git_blob_sha": "e0e8ea0b7db8c1513a0d1605be477192bc21d91d"
+    },
+    {
+      "source": "supabase/agent-skills",
+      "source_commit": "c9be0e931b7930f7d02126d04774d904c381e7d7",
+      "source_path": "skills/supabase-postgres-best-practices/references/query-composite-indexes.md",
+      "path": "intake/supabase/supabase-postgres-best-practices/references/query-composite-indexes.md",
+      "git_blob_sha": "fea64523fd5bb3696f943d486ccaf2aea75d27b8"
+    },
+    {
+      "source": "supabase/agent-skills",
+      "source_commit": "c9be0e931b7930f7d02126d04774d904c381e7d7",
+      "source_path": "skills/supabase-postgres-best-practices/references/query-covering-indexes.md",
+      "path": "intake/supabase/supabase-postgres-best-practices/references/query-covering-indexes.md",
+      "git_blob_sha": "9d2a4947b94516dd975e1044d132bb007280f478"
+    },
+    {
+      "source": "supabase/agent-skills",
+      "source_commit": "c9be0e931b7930f7d02126d04774d904c381e7d7",
+      "source_path": "skills/supabase-postgres-best-practices/references/query-index-types.md",
+      "path": "intake/supabase/supabase-postgres-best-practices/references/query-index-types.md",
+      "git_blob_sha": "93b32590f4bfe377869274f45414ae6e43d168fa"
+    },
+    {
+      "source": "supabase/agent-skills",
+      "source_commit": "c9be0e931b7930f7d02126d04774d904c381e7d7",
+      "source_path": "skills/supabase-postgres-best-practices/references/query-missing-indexes.md",
+      "path": "intake/supabase/supabase-postgres-best-practices/references/query-missing-indexes.md",
+      "git_blob_sha": "e6daace7dd368c75cdf87dc61be4afd6ff66cbbe"
+    },
+    {
+      "source": "supabase/agent-skills",
+      "source_commit": "c9be0e931b7930f7d02126d04774d904c381e7d7",
+      "source_path": "skills/supabase-postgres-best-practices/references/query-partial-indexes.md",
+      "path": "intake/supabase/supabase-postgres-best-practices/references/query-partial-indexes.md",
+      "git_blob_sha": "3e61a3417b9cce3c8cee99b39b78b7ebf495dd1f"
+    },
+    {
+      "source": "supabase/agent-skills",
+      "source_commit": "c9be0e931b7930f7d02126d04774d904c381e7d7",
+      "source_path": "skills/supabase-postgres-best-practices/references/schema-constraints.md",
+      "path": "intake/supabase/supabase-postgres-best-practices/references/schema-constraints.md",
+      "git_blob_sha": "1d2ef8f9a968cd6fa882c7299134c30ace06373c"
+    },
+    {
+      "source": "supabase/agent-skills",
+      "source_commit": "c9be0e931b7930f7d02126d04774d904c381e7d7",
+      "source_path": "skills/supabase-postgres-best-practices/references/schema-data-types.md",
+      "path": "intake/supabase/supabase-postgres-best-practices/references/schema-data-types.md",
+      "git_blob_sha": "f253a5819d05531371e04485ab84f552fbb32fbe"
+    },
+    {
+      "source": "supabase/agent-skills",
+      "source_commit": "c9be0e931b7930f7d02126d04774d904c381e7d7",
+      "source_path": "skills/supabase-postgres-best-practices/references/schema-foreign-key-indexes.md",
+      "path": "intake/supabase/supabase-postgres-best-practices/references/schema-foreign-key-indexes.md",
+      "git_blob_sha": "6c3d6ff622b8a9df358f6673f323292e682ce87c"
+    },
+    {
+      "source": "supabase/agent-skills",
+      "source_commit": "c9be0e931b7930f7d02126d04774d904c381e7d7",
+      "source_path": "skills/supabase-postgres-best-practices/references/schema-lowercase-identifiers.md",
+      "path": "intake/supabase/supabase-postgres-best-practices/references/schema-lowercase-identifiers.md",
+      "git_blob_sha": "f0072940b159ff64e0c2d4fbb499133cb8f49a66"
+    },
+    {
+      "source": "supabase/agent-skills",
+      "source_commit": "c9be0e931b7930f7d02126d04774d904c381e7d7",
+      "source_path": "skills/supabase-postgres-best-practices/references/schema-partitioning.md",
+      "path": "intake/supabase/supabase-postgres-best-practices/references/schema-partitioning.md",
+      "git_blob_sha": "13137a03275fa45001c870a40b0069204d44e005"
+    },
+    {
+      "source": "supabase/agent-skills",
+      "source_commit": "c9be0e931b7930f7d02126d04774d904c381e7d7",
+      "source_path": "skills/supabase-postgres-best-practices/references/schema-primary-keys.md",
+      "path": "intake/supabase/supabase-postgres-best-practices/references/schema-primary-keys.md",
+      "git_blob_sha": "fb0fbb166fac9ea38c127d807a263282acc2dc93"
+    },
+    {
+      "source": "supabase/agent-skills",
+      "source_commit": "c9be0e931b7930f7d02126d04774d904c381e7d7",
+      "source_path": "skills/supabase-postgres-best-practices/references/security-privileges.md",
+      "path": "intake/supabase/supabase-postgres-best-practices/references/security-privileges.md",
+      "git_blob_sha": "448ec345fab6c5a0116c584d65638b86d758c558"
+    },
+    {
+      "source": "supabase/agent-skills",
+      "source_commit": "c9be0e931b7930f7d02126d04774d904c381e7d7",
+      "source_path": "skills/supabase-postgres-best-practices/references/security-rls-basics.md",
+      "path": "intake/supabase/supabase-postgres-best-practices/references/security-rls-basics.md",
+      "git_blob_sha": "c61e1a8503de113be0981759b82f5e37090f344c"
+    },
+    {
+      "source": "supabase/agent-skills",
+      "source_commit": "c9be0e931b7930f7d02126d04774d904c381e7d7",
+      "source_path": "skills/supabase-postgres-best-practices/references/security-rls-performance.md",
+      "path": "intake/supabase/supabase-postgres-best-practices/references/security-rls-performance.md",
+      "git_blob_sha": "c3c7c416d57d9a46a9993f4e0c20f772fb64483d"
     }
   ]
 }
