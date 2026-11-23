@@ -10,8 +10,11 @@ This folder holds **unaltered upstream source snapshots for evaluation**. It is 
 - Community Web Design Studio `cinematic-scroll` and `scroll-audit` including complete companion references; source license MIT.
 - Official Expo `expo-animation` with recipes, metadata, and per-skill license MIT.
 - GetSentry `gha-security-review` skill with complete reference set for GitHub Actions security review.
+- Anthropic `frontend-design` with its individual source license.
+- GetSentry `find-bugs` and `code-review`, retained separately because one hunts defects and the other evaluates changes.
+- Expo `expo-design-system` with its references and license, complementing motion-specific `expo-animation`.
 
-**11 unapproved skills from 5 upstream repositories** with 59 mirrored source files. Full per-file provenance and Git blob hashes: `catalog/intake-provenance.json`.
+**15 unapproved skills from 6 upstream repositories** with 68 mirrored source files. Full per-file provenance and Git blob hashes: `catalog/intake-provenance.json`.
 Licenses are copied verbatim in each supplier's top-level intake folder, not replaced by this repository's MIT license.
 
 ## Non-negotiable restrictions
@@ -30,3 +33,4 @@ Licenses are copied verbatim in each supplier's top-level intake folder, not rep
 - https://github.com/microsoft/playwright-cli/tree/c872a33cec77fa03c28fa7c6d1ad99d15d04ce42 (Apache-2.0)
 - https://github.com/MustBeSimo/web-design-studio/tree/674f211abfeb9707d2424d553bb5b1af3613025f (MIT)
 - https://github.com/expo/skills/tree/88d9bd79f3fa8452a778fbac65bae162c0b32ce4 (MIT)
+- https://github.com/anthropics/skills/tree/e4bb5d960d87126ff3b3a8af1a104b7db67560ba (per-skill license)
