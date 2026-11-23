@@ -32,12 +32,12 @@ run_fixture() {
 
 echo "Real n8n runtime positive fixture (offline)"
 if ! run_fixture positive.json "$WORK/positive.log"; then
-  sed -n '1,100p' "$WORK/positive.log"
+  tail -n 80 "$WORK/positive.log"
   echo "FAIL: positive fixture failed"
   exit 1
 fi
 if ! grep -Eqi 'execution finished|execution successful|successfully executed|finished execution' "$WORK/positive.log"; then
-  sed -n '1,100p' "$WORK/positive.log"
+  tail -n 80 "$WORK/positive.log"
   echo "FAIL: expected execution success evidence not present"
   exit 1
 fi
@@ -48,7 +48,7 @@ if run_fixture blocked-network.json "$WORK/negative.log"; then
   exit 1
 fi
 if ! grep -Eqi 'example.com|External HTTP|ENETUNREACH|EAI_AGAIN|network|request failed|not connected' "$WORK/negative.log"; then
-  sed -n '1,100p' "$WORK/negative.log"
+  tail -n 80 "$WORK/negative.log"
   echo "FAIL: failure did not show HTTP/network attempt evidence"
   exit 1
 fi
