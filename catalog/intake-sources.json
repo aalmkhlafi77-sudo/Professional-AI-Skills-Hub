@@ -185,6 +185,19 @@
         }
       ],
       "notes": "Official Laravel Boost source; includes .blade.php templates that are source text only and must not be executed during intake."
+    },
+    {
+      "id": "n8n-io/skills",
+      "url": "https://github.com/n8n-io/skills",
+      "commit": "626f50fdf2934116eea2c5469339e03d2d524e83",
+      "prefix": "intake/n8n/",
+      "license_file": "intake/n8n/LICENSE",
+      "entries": [
+        {
+          "name": "n8n-expressions-official",
+          "path": "intake/n8n/n8n-expressions-official/SKILL.md"
+        }
+      ]
     }
   ]
 }
