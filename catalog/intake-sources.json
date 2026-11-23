@@ -70,6 +70,12 @@
           "skill": "code-review",
           "path": "intake/sentry/code-review/SKILL.md",
           "notes": "Sentry-origin review guidelines; verify portability to non-Sentry repos."
+        },
+        {
+          "skill": "security-review",
+          "path": "intake/sentry/security-review/SKILL.md",
+          "license": "Skill-specific LICENSE",
+          "notes": "Extensive security review framework; language/infrastructure references included."
         }
       ]
     },
@@ -132,6 +138,11 @@
           "skill": "expo-design-system",
           "path": "intake/expo/expo-design-system/SKILL.md",
           "notes": "Native app design token and component system audit."
+        },
+        {
+          "skill": "expo-native-ui",
+          "path": "intake/expo/expo-native-ui/SKILL.md",
+          "notes": "Native platform controls, gradients, icons, media and visual effects; Expo/React Native only."
         }
       ],
       "notes": "Native React mobile only. Actual-device evaluation pending."
