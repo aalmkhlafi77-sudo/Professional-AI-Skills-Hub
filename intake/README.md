@@ -7,8 +7,11 @@ This folder holds **unaltered upstream source snapshots for evaluation**. It is 
 - Five high-value official GreenSock GSAP skills: `gsap-core`, `gsap-react`, `gsap-scrolltrigger`, `gsap-performance`, `gsap-timeline`.
 - GetSentry `skill-scanner` and all four companion source files/references.
 - Official Microsoft `playwright-cli` skill and all ten accompanying references.
+- Community Web Design Studio `cinematic-scroll` and `scroll-audit` including complete companion references; source license MIT.
+- Official Expo `expo-animation` with recipes, metadata, and per-skill license MIT.
+- GetSentry `gha-security-review` skill with complete reference set for GitHub Actions security review.
 
-Full per-file provenance and Git blob hashes: `catalog/intake-provenance.json`.
+**11 unapproved skills from 5 upstream repositories** with 59 mirrored source files. Full per-file provenance and Git blob hashes: `catalog/intake-provenance.json`.
 Licenses are copied verbatim in each supplier's top-level intake folder, not replaced by this repository's MIT license.
 
 ## Non-negotiable restrictions
@@ -25,3 +28,5 @@ Licenses are copied verbatim in each supplier's top-level intake folder, not rep
 - https://github.com/greensock/gsap-skills/tree/aed9cfd3277740755f6bfc1155c7aa645403b760 (MIT)
 - https://github.com/getsentry/skills/tree/a582c51ee29d0f35e6ac321340796f77d43da733 (Apache-2.0)
 - https://github.com/microsoft/playwright-cli/tree/c872a33cec77fa03c28fa7c6d1ad99d15d04ce42 (Apache-2.0)
+- https://github.com/MustBeSimo/web-design-studio/tree/674f211abfeb9707d2424d553bb5b1af3613025f (MIT)
+- https://github.com/expo/skills/tree/88d9bd79f3fa8452a778fbac65bae162c0b32ce4 (MIT)
