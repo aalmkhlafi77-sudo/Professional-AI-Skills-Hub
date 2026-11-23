@@ -19,13 +19,14 @@
       "url": "https://github.com/greensock/gsap-skills",
       "source_type": "official",
       "category": "motion",
-      "status": "candidate",
+      "status": "under_review",
       "reason": "Official GSAP motion and ScrollTrigger skills",
-      "commit_sha": null,
+      "commit_sha": "aed9cfd3277740755f6bfc1155c7aa645403b760",
       "license_verified": false,
       "security_review": "pending",
       "sandbox_test": "pending",
-      "score": null
+      "score": null,
+      "review_note": "docs/reviews/official-wave-1.md"
     },
     {
       "id": "MustBeSimo/web-design-studio",
@@ -45,26 +46,28 @@
       "url": "https://github.com/vercel-labs/agent-skills",
       "source_type": "official",
       "category": "development",
-      "status": "candidate",
+      "status": "under_review",
       "reason": "React best practices and web design guidelines",
-      "commit_sha": null,
+      "commit_sha": "5a37a6329fbad3666c3207392a6a7c0110e92efb",
       "license_verified": false,
       "security_review": "pending",
       "sandbox_test": "pending",
-      "score": null
+      "score": null,
+      "review_note": "docs/reviews/official-wave-1.md"
     },
     {
       "id": "microsoft/playwright-cli",
       "url": "https://github.com/microsoft/playwright-cli",
       "source_type": "official",
       "category": "testing",
-      "status": "candidate",
+      "status": "under_review",
       "reason": "Prefer official browser testing workflow",
-      "commit_sha": null,
+      "commit_sha": "c872a33cec77fa03c28fa7c6d1ad99d15d04ce42",
       "license_verified": false,
       "security_review": "pending",
       "sandbox_test": "pending",
-      "score": null
+      "score": null,
+      "review_note": "docs/reviews/official-wave-1.md"
     },
     {
       "id": "vercel-labs/agent-browser",
@@ -84,26 +87,28 @@
       "url": "https://github.com/expo/skills",
       "source_type": "official",
       "category": "mobile",
-      "status": "candidate",
+      "status": "under_review",
       "reason": "Official Expo/React Native workflows",
-      "commit_sha": null,
+      "commit_sha": "88d9bd79f3fa8452a778fbac65bae162c0b32ce4",
       "license_verified": false,
       "security_review": "pending",
       "sandbox_test": "pending",
-      "score": null
+      "score": null,
+      "review_note": "docs/reviews/official-wave-1.md"
     },
     {
       "id": "supabase/agent-skills",
       "url": "https://github.com/supabase/agent-skills",
       "source_type": "official",
       "category": "database",
-      "status": "candidate",
+      "status": "under_review",
       "reason": "PostgreSQL-specific, not MySQL",
-      "commit_sha": null,
+      "commit_sha": "c9be0e931b7930f7d02126d04774d904c381e7d7",
       "license_verified": false,
       "security_review": "pending",
       "sandbox_test": "pending",
-      "score": null
+      "score": null,
+      "review_note": "docs/reviews/official-wave-1.md"
     },
     {
       "id": "getsentry/skills",
