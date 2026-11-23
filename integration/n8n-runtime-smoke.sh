@@ -4,7 +4,7 @@ set -euo pipefail
 # Executes only disposable JSON fixtures in the real n8n CLI, inside a
 # network-disconnected container. Never mount a home directory or credentials.
 IMAGE="docker.n8n.io/n8nio/n8n:2.2.0"
-ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/../.." && pwd)"
+ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 WORK="$(mktemp -d)"
 trap 'rm -rf "$WORK"' EXIT
 mkdir -p "$WORK/data"
