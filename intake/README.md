@@ -16,6 +16,8 @@ This folder holds **unaltered upstream source snapshots for evaluation**. It is 
 **21 unapproved skills from 7 upstream repositories** with 100 mirrored source files. Full per-file provenance and Git blob hashes: `catalog/intake-provenance.json`.
 Licenses are copied verbatim in each supplier's top-level intake folder, not replaced by this repository's MIT license.
 
+- Official Supabase `supabase-postgres-best-practices` including 34 reference files, changelog and original MIT license; PostgreSQL-specific, not a substitute for MySQL.
+
 ## Non-negotiable restrictions
 
 1. Never install from or auto-discover `intake/` as production skills.
@@ -33,3 +35,5 @@ Licenses are copied verbatim in each supplier's top-level intake folder, not rep
 - https://github.com/MustBeSimo/web-design-studio/tree/674f211abfeb9707d2424d553bb5b1af3613025f (MIT)
 - https://github.com/expo/skills/tree/88d9bd79f3fa8452a778fbac65bae162c0b32ce4 (MIT)
 - https://github.com/anthropics/skills/tree/e4bb5d960d87126ff3b3a8af1a104b7db67560ba (Apache-2.0 per-skill license)
+
+- https://github.com/supabase/agent-skills/tree/c9be0e931b7930f7d02126d04774d904c381e7d7 (MIT)

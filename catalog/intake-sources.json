@@ -145,6 +145,21 @@
         }
       ],
       "notes": "Official frontend design guidance. Individual skill license retained; assess reuse terms and compatibility before approval."
+    },
+    {
+      "id": "supabase/agent-skills",
+      "commit": "c9be0e931b7930f7d02126d04774d904c381e7d7",
+      "license": "MIT",
+      "license_file": "intake/supabase/LICENSE",
+      "prefix": "intake/supabase/",
+      "entries": [
+        {
+          "skill": "supabase-postgres-best-practices",
+          "path": "intake/supabase/supabase-postgres-best-practices/SKILL.md",
+          "notes": "Postgres query, indexing, migrations, row-level security and connection guidance; not MySQL."
+        }
+      ],
+      "notes": "Official vendor guidance; quarantined, not authorized for production SQL or RLS changes."
     }
   ]
 }
