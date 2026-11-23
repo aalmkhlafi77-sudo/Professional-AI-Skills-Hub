@@ -128,6 +128,16 @@
           "skill": "expo-native-ui",
           "path": "intake/expo/expo-native-ui/SKILL.md",
           "notes": "Native platform controls, gradients, icons, media and visual effects; Expo/React Native only."
+        },
+        {
+          "skill": "expo-data-fetching",
+          "path": "intake/expo/expo-data-fetching/SKILL.md",
+          "notes": "Native data loading, cache/cancellation and offline handling"
+        },
+        {
+          "skill": "expo-router",
+          "path": "intake/expo/expo-router/SKILL.md",
+          "notes": "Native route structure, tabs and navigation"
         }
       ],
       "notes": "Native React mobile only. Actual-device evaluation pending."

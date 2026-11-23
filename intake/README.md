@@ -18,6 +18,8 @@ Licenses are copied verbatim in each supplier's top-level intake folder, not rep
 
 - Official Supabase `supabase-postgres-best-practices` including 34 reference files, changelog and original MIT license; PostgreSQL-specific, not a substitute for MySQL.
 
+- Official Expo `expo-data-fetching` and `expo-router` with their ten companion files, complementing (not duplicating) existing native UI design and animation skills.
+
 ## Non-negotiable restrictions
 
 1. Never install from or auto-discover `intake/` as production skills.

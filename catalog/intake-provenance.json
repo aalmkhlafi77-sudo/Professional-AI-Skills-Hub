@@ -960,6 +960,90 @@
       "source_path": "skills/supabase-postgres-best-practices/references/security-rls-performance.md",
       "path": "intake/supabase/supabase-postgres-best-practices/references/security-rls-performance.md",
       "git_blob_sha": "c3c7c416d57d9a46a9993f4e0c20f772fb64483d"
+    },
+    {
+      "source": "expo/skills",
+      "source_commit": "88d9bd79f3fa8452a778fbac65bae162c0b32ce4",
+      "source_path": "plugins/expo/skills/expo-data-fetching/SKILL.md",
+      "path": "intake/expo/expo-data-fetching/SKILL.md",
+      "git_blob_sha": "4371e962346cd0306493c0c43bf9afa508e5b1ed"
+    },
+    {
+      "source": "expo/skills",
+      "source_commit": "88d9bd79f3fa8452a778fbac65bae162c0b32ce4",
+      "source_path": "plugins/expo/skills/expo-data-fetching/agents/openai.yaml",
+      "path": "intake/expo/expo-data-fetching/agents/openai.yaml",
+      "git_blob_sha": "8e942bcb6aeb4bf8f65ec3cee999409e51396a62"
+    },
+    {
+      "source": "expo/skills",
+      "source_commit": "88d9bd79f3fa8452a778fbac65bae162c0b32ce4",
+      "source_path": "plugins/expo/skills/expo-data-fetching/references/expo-router-loaders.md",
+      "path": "intake/expo/expo-data-fetching/references/expo-router-loaders.md",
+      "git_blob_sha": "ca3942c4e1291f1cf9c65dc1a1762fef71280056"
+    },
+    {
+      "source": "expo/skills",
+      "source_commit": "88d9bd79f3fa8452a778fbac65bae162c0b32ce4",
+      "source_path": "plugins/expo/skills/expo-data-fetching/references/offline-and-cancellation.md",
+      "path": "intake/expo/expo-data-fetching/references/offline-and-cancellation.md",
+      "git_blob_sha": "596bbed6853e31fa0fbb777542bbd3463a45a9c8"
+    },
+    {
+      "source": "expo/skills",
+      "source_commit": "88d9bd79f3fa8452a778fbac65bae162c0b32ce4",
+      "source_path": "plugins/expo/skills/expo-router/SKILL.md",
+      "path": "intake/expo/expo-router/SKILL.md",
+      "git_blob_sha": "14d9eaf0bb6489f9adb864c509a55ef46612dd74"
+    },
+    {
+      "source": "expo/skills",
+      "source_commit": "88d9bd79f3fa8452a778fbac65bae162c0b32ce4",
+      "source_path": "plugins/expo/skills/expo-router/agents/openai.yaml",
+      "path": "intake/expo/expo-router/agents/openai.yaml",
+      "git_blob_sha": "a314bc85a701a0464b6408fa3a0dbd4624984901"
+    },
+    {
+      "source": "expo/skills",
+      "source_commit": "88d9bd79f3fa8452a778fbac65bae162c0b32ce4",
+      "source_path": "plugins/expo/skills/expo-router/references/form-sheet.md",
+      "path": "intake/expo/expo-router/references/form-sheet.md",
+      "git_blob_sha": "1ed80fb6f4e0c01104768079156381865a9dddd8"
+    },
+    {
+      "source": "expo/skills",
+      "source_commit": "88d9bd79f3fa8452a778fbac65bae162c0b32ce4",
+      "source_path": "plugins/expo/skills/expo-router/references/route-structure.md",
+      "path": "intake/expo/expo-router/references/route-structure.md",
+      "git_blob_sha": "b552729a4d9b845b482f69d002433e146c1b41ab"
+    },
+    {
+      "source": "expo/skills",
+      "source_commit": "88d9bd79f3fa8452a778fbac65bae162c0b32ce4",
+      "source_path": "plugins/expo/skills/expo-router/references/search.md",
+      "path": "intake/expo/expo-router/references/search.md",
+      "git_blob_sha": "9ca13bd58396a4aa9c4eb8e5a5fc21de552e8f86"
+    },
+    {
+      "source": "expo/skills",
+      "source_commit": "88d9bd79f3fa8452a778fbac65bae162c0b32ce4",
+      "source_path": "plugins/expo/skills/expo-router/references/tabs.md",
+      "path": "intake/expo/expo-router/references/tabs.md",
+      "git_blob_sha": "f689f74c506c04bc28a01ba6106ed2d77810e564"
+    },
+    {
+      "source": "expo/skills",
+      "source_commit": "88d9bd79f3fa8452a778fbac65bae162c0b32ce4",
+      "source_path": "plugins/expo/skills/expo-router/references/toolbar-and-headers.md",
+      "path": "intake/expo/expo-router/references/toolbar-and-headers.md",
+      "git_blob_sha": "9706b8d3f09abd5bae0d56b6179664e99b7bf940"
+    },
+    {
+      "source": "expo/skills",
+      "source_commit": "88d9bd79f3fa8452a778fbac65bae162c0b32ce4",
+      "source_path": "plugins/expo/skills/expo-router/references/zoom-transitions.md",
+      "path": "intake/expo/expo-router/references/zoom-transitions.md",
+      "git_blob_sha": "27e00a888aa2ba998443ea9e3006b11321d14849"
     }
   ]
 }
