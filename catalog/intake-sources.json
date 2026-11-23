@@ -52,6 +52,14 @@
           "skill": "gha-security-review",
           "path": "intake/sentry/gha-security-review/SKILL.md",
           "notes": "Review-only instructions; permissions required for reading workflows, no executable scripts packaged."
+        },
+        {
+          "skill": "find-bugs",
+          "path": "intake/sentry/find-bugs/SKILL.md"
+        },
+        {
+          "skill": "code-review",
+          "path": "intake/sentry/code-review/SKILL.md"
         }
       ]
     },
@@ -104,9 +112,28 @@
         {
           "skill": "expo-animation",
           "path": "intake/expo/expo-animation/SKILL.md"
+        },
+        {
+          "skill": "expo-design-system",
+          "path": "intake/expo/expo-design-system/SKILL.md",
+          "notes": "React Native design system audit and native UI quality guidance."
         }
       ],
       "notes": "Native React mobile only. Actual-device evaluation pending."
+    },
+    {
+      "id": "anthropics/skills",
+      "commit": "e4bb5d960d87126ff3b3a8af1a104b7db67560ba",
+      "license": "Per-skill LICENSE.txt",
+      "license_file": "intake/anthropic/frontend-design/LICENSE.txt",
+      "prefix": "intake/anthropic/",
+      "entries": [
+        {
+          "skill": "frontend-design",
+          "path": "intake/anthropic/frontend-design/SKILL.md"
+        }
+      ],
+      "notes": "Official frontend design guidance. Individual skill license retained; assess reuse terms and compatibility before approval."
     }
   ]
 }
