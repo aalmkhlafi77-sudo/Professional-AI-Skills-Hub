@@ -1,0 +1,3 @@
+interface:
+  display_name: "MySQL Data Integrity Review"
+  short_description: "Audit MySQL-backed PHP or Node applications for transaction safety, persist"
