@@ -1,0 +1,21 @@
+name: n8n real runtime isolated smoke
+on:
+  pull_request:
+    paths:
+      - 'integration/n8n-runtime/**'
+      - 'integration/n8n-runtime-smoke.sh'
+      - '.github/workflows/n8n-runtime-smoke.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  isolated-runtime:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+        with:
+          persist-credentials: false
+      - name: Run real n8n CLI with synthetic fixtures and no container network
+        shell: bash
+        run: bash integration/n8n-runtime-smoke.sh
