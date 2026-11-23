@@ -196,6 +196,18 @@
         {
           "skill": "n8n-expressions-official",
           "path": "intake/n8n/n8n-expressions-official/SKILL.md"
+        },
+        {
+          "skill": "n8n-credentials-and-security-official",
+          "path": "intake/n8n/n8n-credentials-and-security-official/SKILL.md"
+        },
+        {
+          "skill": "n8n-error-handling-official",
+          "path": "intake/n8n/n8n-error-handling-official/SKILL.md"
+        },
+        {
+          "skill": "n8n-subworkflows-official",
+          "path": "intake/n8n/n8n-subworkflows-official/SKILL.md"
         }
       ],
       "license": "Apache-2.0"
