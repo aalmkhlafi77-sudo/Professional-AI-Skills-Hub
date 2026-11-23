@@ -20,6 +20,8 @@ Licenses are copied verbatim in each supplier's top-level intake folder, not rep
 
 - Official Expo `expo-data-fetching` and `expo-router` with their ten companion files, complementing (not duplicating) existing native UI design and animation skills.
 
+- Official Laravel Boost `laravel-best-practices` for Laravel PHP backend security, validation, database migrations and performance. Laravel-specific; not a general PHP/MySQL security replacement. Its `.blade.php` source templates remain unexecuted.
+
 ## Non-negotiable restrictions
 
 1. Never install from or auto-discover `intake/` as production skills.
