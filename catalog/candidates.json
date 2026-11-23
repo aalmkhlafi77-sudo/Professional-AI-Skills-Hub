@@ -6,13 +6,14 @@
       "url": "https://github.com/openai/plugins",
       "source_type": "official",
       "category": "general",
-      "status": "candidate",
+      "status": "under_review",
       "reason": "Inspect individual supported skills, do not install wholesale",
-      "commit_sha": null,
+      "commit_sha": "981b02c0c44058b595f3b4180002c3ae3c806d40",
       "license_verified": false,
       "security_review": "pending",
       "sandbox_test": "pending",
-      "score": null
+      "score": null,
+      "review_note": "docs/reviews/alternatives-wave-1.md"
     },
     {
       "id": "greensock/gsap-skills",
@@ -33,13 +34,14 @@
       "url": "https://github.com/MustBeSimo/web-design-studio",
       "source_type": "community",
       "category": "design",
-      "status": "candidate",
+      "status": "under_review",
       "reason": "Cinematic scroll and scroll audit; evaluate scripts",
-      "commit_sha": null,
+      "commit_sha": "674f211abfeb9707d2424d553bb5b1af3613025f",
       "license_verified": false,
       "security_review": "pending",
       "sandbox_test": "pending",
-      "score": null
+      "score": null,
+      "review_note": "docs/reviews/alternatives-wave-1.md"
     },
     {
       "id": "vercel-labs/agent-skills",
@@ -74,13 +76,14 @@
       "url": "https://github.com/vercel-labs/agent-browser",
       "source_type": "official",
       "category": "testing",
-      "status": "candidate",
+      "status": "under_review",
       "reason": "Browser CLI; assess skill and executable separately",
-      "commit_sha": null,
+      "commit_sha": "d2dfc782ccdd79d25a9b4f0acced9321789cecb8",
       "license_verified": false,
       "security_review": "pending",
       "sandbox_test": "pending",
-      "score": null
+      "score": null,
+      "review_note": "docs/reviews/alternatives-wave-1.md"
     },
     {
       "id": "expo/skills",
@@ -115,65 +118,70 @@
       "url": "https://github.com/getsentry/skills",
       "source_type": "official",
       "category": "quality",
-      "status": "candidate",
+      "status": "under_review",
       "reason": "Select only portable documented skills",
-      "commit_sha": null,
+      "commit_sha": "a582c51ee29d0f35e6ac321340796f77d43da733",
       "license_verified": false,
       "security_review": "pending",
       "sandbox_test": "pending",
-      "score": null
+      "score": null,
+      "review_note": "docs/reviews/alternatives-wave-1.md"
     },
     {
       "id": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "source_type": "community",
       "category": "workflow",
-      "status": "candidate",
+      "status": "under_review",
       "reason": "Must honor explicit user approval gates",
-      "commit_sha": null,
+      "commit_sha": "22f0b463e7a5e579904dd6211a520321035526f7",
       "license_verified": false,
       "security_review": "pending",
       "sandbox_test": "pending",
-      "score": null
+      "score": null,
+      "review_note": "docs/reviews/alternatives-wave-1.md"
     },
     {
       "id": "anthropics/skills",
       "url": "https://github.com/anthropics/skills",
       "source_type": "official",
       "category": "reference",
-      "status": "candidate",
+      "status": "under_review",
       "reason": "Select specific portable skills",
-      "commit_sha": null,
+      "commit_sha": "e4bb5d960d87126ff3b3a8af1a104b7db67560ba",
       "license_verified": false,
       "security_review": "pending",
       "sandbox_test": "pending",
-      "score": null
+      "score": null,
+      "review_note": "docs/reviews/alternatives-wave-1.md"
     },
     {
       "id": "lackeyjb/playwright-skill",
       "url": "https://github.com/lackeyjb/playwright-skill",
       "source_type": "community",
       "category": "testing",
-      "status": "candidate",
+      "status": "under_review",
       "reason": "Compare against official Microsoft option",
-      "commit_sha": null,
+      "commit_sha": "dd47a6a023e249eb1b36e9e943eab89d0900865d",
       "license_verified": false,
       "security_review": "pending",
       "sandbox_test": "pending",
-      "score": null
+      "score": null,
+      "review_note": "docs/reviews/alternatives-wave-1.md"
     },
     {
       "id": "zubair-trabzada/scroll-cinematic-claude",
       "url": "https://github.com/zubair-trabzada/scroll-cinematic-claude",
       "source_type": "community",
       "category": "motion",
-      "status": "candidate",
+      "status": "rejected",
       "reason": "Check external API and frame processing dependency",
-      "commit_sha": null,
+      "commit_sha": "5f3cc0e65e474dab1d80ee3fda1e847f3552f708",
       "license_verified": false,
-      "security_review": "pending",
+      "security_review": "failed",
       "sandbox_test": "pending",
-      "score": null
+      "score": null,
+      "review_note": "docs/reviews/alternatives-wave-1.md"
     }
   ]
 }
