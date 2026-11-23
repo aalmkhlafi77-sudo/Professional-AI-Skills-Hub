@@ -414,6 +414,69 @@
       "source_path": "plugins/expo/skills/expo-animation/agents/openai.yaml",
       "path": "intake/expo/expo-animation/agents/openai.yaml",
       "git_blob_sha": "312c925934e07a3781d1d0c9e196efe2f96f0603"
+    },
+    {
+      "source": "anthropics/skills",
+      "source_commit": "e4bb5d960d87126ff3b3a8af1a104b7db67560ba",
+      "source_path": "skills/frontend-design/SKILL.md",
+      "path": "intake/anthropic/frontend-design/SKILL.md",
+      "git_blob_sha": "a5333457c414d20d625f307df945842c0952ecc3"
+    },
+    {
+      "source": "anthropics/skills",
+      "source_commit": "e4bb5d960d87126ff3b3a8af1a104b7db67560ba",
+      "source_path": "skills/frontend-design/LICENSE.txt",
+      "path": "intake/anthropic/frontend-design/LICENSE.txt",
+      "git_blob_sha": "f433b1a53f5b830a205fd2df78e2b34974656c7b"
+    },
+    {
+      "source": "getsentry/skills",
+      "source_commit": "a582c51ee29d0f35e6ac321340796f77d43da733",
+      "source_path": "skills/find-bugs/SKILL.md",
+      "path": "intake/sentry/find-bugs/SKILL.md",
+      "git_blob_sha": "490a181b1a47537cd19eacbdd8f2c46740a268db"
+    },
+    {
+      "source": "getsentry/skills",
+      "source_commit": "a582c51ee29d0f35e6ac321340796f77d43da733",
+      "source_path": "skills/code-review/SKILL.md",
+      "path": "intake/sentry/code-review/SKILL.md",
+      "git_blob_sha": "621007b4da6639b9574e3e0a18054df73a5de807"
+    },
+    {
+      "source": "expo/skills",
+      "source_commit": "88d9bd79f3fa8452a778fbac65bae162c0b32ce4",
+      "source_path": "plugins/expo/skills/expo-design-system/SKILL.md",
+      "path": "intake/expo/expo-design-system/SKILL.md",
+      "git_blob_sha": "1f02bf6017381903bd29c1c99360f10ca306494d"
+    },
+    {
+      "source": "expo/skills",
+      "source_commit": "88d9bd79f3fa8452a778fbac65bae162c0b32ce4",
+      "source_path": "plugins/expo/skills/expo-design-system/agents/openai.yaml",
+      "path": "intake/expo/expo-design-system/agents/openai.yaml",
+      "git_blob_sha": "2322f6ef8e7cfe1716bfc0254adb03a2faefe604"
+    },
+    {
+      "source": "expo/skills",
+      "source_commit": "88d9bd79f3fa8452a778fbac65bae162c0b32ce4",
+      "source_path": "plugins/expo/skills/expo-design-system/references/audit.md",
+      "path": "intake/expo/expo-design-system/references/audit.md",
+      "git_blob_sha": "0a6e276fb410982ca3f5167f69fbe925286e0a14"
+    },
+    {
+      "source": "expo/skills",
+      "source_commit": "88d9bd79f3fa8452a778fbac65bae162c0b32ce4",
+      "source_path": "plugins/expo/skills/expo-design-system/references/native-slop.md",
+      "path": "intake/expo/expo-design-system/references/native-slop.md",
+      "git_blob_sha": "b313f4c7f1f361b567b051682500a78245946bf6"
+    },
+    {
+      "source": "expo/skills",
+      "source_commit": "88d9bd79f3fa8452a778fbac65bae162c0b32ce4",
+      "source_path": "plugins/expo/LICENSE",
+      "path": "intake/expo/LICENSE",
+      "git_blob_sha": "548fbcb6e0cc27e99b2cd341feb421a67eafdd2f"
     }
   ]
 }
